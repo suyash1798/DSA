@@ -44,3 +44,39 @@ class Solution {
     return memo[index][partitionSum] = (include || exlude);
   }
 }
+
+/** Bottom - top */
+
+class Solution {
+
+  canPartition(num) {
+    let sum = num.reduce((total, n) => total + n, 0);
+    let partitionSum = sum / 2;
+
+    if (sum % 2 !== 0) {
+      return false;
+    }
+
+    let dp = new Array(num.length).fill(0).map(() => new Array(partitionSum + 1).fill(false));
+
+    for (let i = 0; i < num.length; i++) {
+      dp[i][0] = true;
+    }
+
+    for (let i = 0; i <= partitionSum; i++) {
+      dp[0][i] = num[0] === i;
+    }
+
+    for (let i = 1; i < num.length; i++) {
+      for (let p = 1; p <= partitionSum; p++) {
+        if (num[i] <= p) {
+          dp[i][p] = dp[i - 1][p] || dp[i - 1][p - num[i]];
+        } else {
+          dp[i][p] = dp[i - 1][p];
+        }
+      }
+    }
+
+    return dp[num.length - 1][partitionSum];
+  }
+}
