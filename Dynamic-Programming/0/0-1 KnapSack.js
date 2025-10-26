@@ -27,3 +27,29 @@ class Solution {
     return memo[index][capacity] = Math.max(include, exclude);
   }
 }
+
+/* Bottom - Up */
+
+class Solution {
+  solveKnapsack(profits, weights, capacity) {
+    let dp = new Array(profits.length).fill(0).map(() => new Array(capacity + 1).fill(0));
+
+    for (let i = 0; i < capacity + 1; i++) {
+      dp[0][i] = i >= weights[0] ? profits[0] : 0;
+    }
+
+    for (let i = 1; i < profits.length; i++) {
+      for (let c = 1; c < capacity + 1; c++) {
+        let include = 0;
+        let exclude = dp[i - 1][c];
+
+        if (weights[i] <= c) {
+          include = profits[i] + dp[i - 1][c - weights[i]];
+        }
+
+        dp[i][c] = Math.max(include, exclude);
+      }
+    }
+    return dp[profits.length - 1][capacity];
+  };
+}
