@@ -45,12 +45,13 @@
 
 ### 🛠️ Design
 
-1. [Design Authentication Manager](./Design/Design-Authentication-Manager.js)
-2. [Design Browser History](./Design/Design-Browser-History.js)
-3. [Design Circular Deque](./Design/Design-Circular-Deque.js)
-4. [Encode and Decode TinyURL](./Design/Encode-and-Decode-TinyURL.js)
-5. [Frequency Tracker](./Design/Frequency-Tracker.js)
-6. [Operations on Tree](./Design/Operations-on-Tree.js)
+1. [Design a Stack With Increment Operation](./Design/Design-a-Stack-With-Increment-Operation.js)
+2. [Design Authentication Manager](./Design/Design-Authentication-Manager.js)
+3. [Design Browser History](./Design/Design-Browser-History.js)
+4. [Design Circular Deque](./Design/Design-Circular-Deque.js)
+5. [Encode and Decode TinyURL](./Design/Encode-and-Decode-TinyURL.js)
+6. [Frequency Tracker](./Design/Frequency-Tracker.js)
+7. [Operations on Tree](./Design/Operations-on-Tree.js)
 
 ### 💡 Dynamic Programming
 
