@@ -225,7 +225,8 @@
 
 ### 🔤 Trie
 
-1. [Replace Words](./Trie/Replace-Words.js)
+1. [Remove Sub Folders from the Filesystem](./Trie/Remove-Sub-Folders-from-the-Filesystem.js)
+2. [Replace Words](./Trie/Replace-Words.js)
 
 ### ⬅️➡️ Two Pointers
 
