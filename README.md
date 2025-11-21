@@ -43,6 +43,7 @@
 ### 📊 Counting
 
 1. [Minimum Operations to Write the Letter Y on a Grid](./Counting/Minimum-Operations-to-Write-the-Letter-Y-on-a-Grid.js)
+2. [Minimum String Length After Balanced Removals](./Counting/Minimum-String-Length-After-Balanced-Removals.js)
 
 ### 🛠️ Design
 
