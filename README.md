@@ -194,11 +194,12 @@
 
 1. [Build an Array With Stack Operations](./Stack/Build-an-Array-With-Stack-Operations.js)
 2. [Construct Smallest Number From DI String](./Stack/Construct-Smallest-Number-From-DI-String.js)
-3. [Minimum Add to Make Parentheses Valid](./Stack/Minimum-Add-to-Make-Parentheses-Valid.js)
-4. [Next Greater Element II](./Stack/Next-Greater-Element-II.js)
-5. [Online Stock Span](./Stack/Online-Stock-Span.js)
-6. [Remove All Adjacent Duplicates in String II](./Stack/Remove-All-Adjacent-Duplicates-in-String-II.js)
-7. [Removing Stars From a String](./Stack/Removing-Stars-From-a-String.js)
+3. [Evaluate the Bracket Pairs of a String](./Stack/Evaluate-the-Bracket-Pairs-of-a-String.js)
+4. [Minimum Add to Make Parentheses Valid](./Stack/Minimum-Add-to-Make-Parentheses-Valid.js)
+5. [Next Greater Element II](./Stack/Next-Greater-Element-II.js)
+6. [Online Stock Span](./Stack/Online-Stock-Span.js)
+7. [Remove All Adjacent Duplicates in String II](./Stack/Remove-All-Adjacent-Duplicates-in-String-II.js)
+8. [Removing Stars From a String](./Stack/Removing-Stars-From-a-String.js)
 
 ### 📝 String
 
