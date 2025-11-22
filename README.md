@@ -184,6 +184,7 @@
 2. [Maximum Points You Can Obtain from Cards](./Prefix-Sum/Maximum-Points-You-Can-Obtain-from-Cards.js)
 3. [Minimum Number of Operations to Move All Balls to Each Box](./Prefix-Sum/Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box.js)
 4. [Statistics from a Large Sample](./Prefix-Sum/Statistics-from-a-Large-Sample.js)
+5. [Sum of Absolute Differences in a Sorted Array](./Prefix-Sum/Sum-of-Absolute-Differences-in-a-Sorted-Array.js)
 
 ### 🪟 Sliding Window
 
