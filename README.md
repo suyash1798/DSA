@@ -1,17 +1,17 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 184** 🎉
+**Total Problems Solved: 185** 🎉
 
 ## 📖 Problems by Topic
 
-### 🔢 Array
+### 🔢 Array (4)
 
 1. [Find Occurrences of an Element in an Array](./Array/Find-Occurrences-of-an-Element-in-an-Array.js)
 2. [Number of Subarrays That Match a Pattern I](./Array/Number-of-Subarrays-That-Match-a-Pattern-I.js)
 3. [Reduction Operations to Make the Array Elements Equal](./Array/Reduction-Operations-to-Make-the-Array-Elements-Equal.js)
 4. [Sum of Even Numbers After Queries](./Array/Sum-of-Even-Numbers-After-Queries.js)
 
-### 🔄 Backtracking
+### 🔄 Backtracking (10)
 
 1. [Combination Sum III](./Backtracking/Combination-Sum-III.js)
 2. [Combinations](./Backtracking/Combinations.js)
@@ -24,12 +24,12 @@
 9. [Subsets II](./Backtracking/Subsets-II.js)
 10. [The k th Lexicographical String of All Happy Strings of Length n](./Backtracking/The-k-th-Lexicographical-String-of-All-Happy-Strings-of-Length-n.js)
 
-### 🔍 Binary Search
+### 🔍 Binary Search (2)
 
 1. [Minimum Absolute Sum Difference](./Binary-Search/Minimum-Absolute-Sum-Difference.js)
 2. [Successful Pairs of Spells and Potions](./Binary-Search/Successful-Pairs-of-Spells-and-Potions.js)
 
-### 🔢 BitWise
+### 🔢 BitWise (8)
 
 1. [Bitwise AND of Numbers Range](./BitWise/Bitwise-AND-of-Numbers-Range.js)
 2. [Count Number of Maximum Bitwise OR Subsets](./BitWise/Count-Number-of-Maximum-Bitwise-OR-Subsets.js)
@@ -40,17 +40,17 @@
 7. [Minimum Operations to Make Binary Array Elements Equal to One I](./BitWise/Minimum-Operations%20to-Make-Binary-Array-Elements-Equal-to-One-I.js)
 8. [Neighboring Bitwise XOR](./BitWise/Neighboring-Bitwise-XOR.js)
 
-### 🗂️ Bucket Sort
+### 🗂️ Bucket Sort (1)
 
 1. [Reduce Array Size to The Half](./Bucket-Sort/Reduce-Array-Size-to-The-Half.js)
 
-### 📊 Counting
+### 📊 Counting (3)
 
 1. [Minimum Operations to Write the Letter Y on a Grid](./Counting/Minimum-Operations-to-Write-the-Letter-Y-on-a-Grid.js)
 2. [Minimum String Length After Balanced Removals](./Counting/Minimum-String-Length-After-Balanced-Removals.js)
 3. [Sum of Beauty of All Substrings](./Counting/Sum-of-Beauty-of-All-Substrings.js)
 
-### 🛠️ Design
+### 🛠️ Design (8)
 
 1. [Cache With Time Limit](./Design/Cache-With-Time-Limit.js)
 2. [Design a Stack With Increment Operation](./Design/Design-a-Stack-With-Increment-Operation.js)
@@ -61,7 +61,7 @@
 7. [Frequency Tracker](./Design/Frequency-Tracker.js)
 8. [Operations on Tree](./Design/Operations-on-Tree.js)
 
-### 💡 Dynamic Programming
+### 💡 Dynamic Programming (13)
 
 1. [0 1 KnapSack](./Dynamic-Programming/0-1%20KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
@@ -77,7 +77,7 @@
 12. [Subset Sum](./Dynamic-Programming/Subset-Sum.js)
 13. [Target Sum](./Dynamic-Programming/Target-Sum.js)
 
-### 🌐 Graph
+### 🌐 Graph (12)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -92,7 +92,7 @@
 11. [The Time When the Network Becomes Idle](./Graph/The-Time-When-the-Network-Becomes-Idle.js)
 12. [Unit Conversion I](./Graph/Unit-Conversion-I.js)
 
-### 🎯 Greedy
+### 🎯 Greedy (26)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -121,7 +121,7 @@
 25. [Smallest Palindromic Rearrangement I](./Greedy/Smallest-Palindromic-Rearrangement-I.js)
 26. [Time Needed to Rearrange a Binary String](./Greedy/Time-Needed-to-Rearrange-a-Binary-String.js)
 
-### 🗺️ HashMap
+### 🗺️ HashMap (15)
 
 1. [Convert an Array Into a 2D Array With Conditions](./HashMap/Convert-an-Array-Into-a-2D-Array-With-Conditions.js)
 2. [Count Number of Distinct Integers After Reverse Operations](./HashMap/Count-Number-of-Distinct-Integers-After-Reverse-Operations.js)
@@ -139,21 +139,21 @@
 14. [Number of Matching Subsequences](./HashMap/Number-of-Matching-Subsequences.js)
 15. [Tuple with Same Product](./HashMap/Tuple-with-Same-Product.js)
 
-### 🏔️ Heap
+### 🏔️ Heap (4)
 
 1. [Divide Intervals Into Minimum Number of Groups](./Heap/Divide-Intervals-Into-Minimum-Number-of-Groups.js)
 2. [K Closest Points to Origin](./Heap/K-Closest-Points-to-Origin.js)
 3. [Kth Smallest Element in a Sorted Matrix](./Heap/Kth-Smallest-Element-in-a-Sorted-Matrix.js)
 4. [Remove Stones to Minimize the Total](./Heap/Remove-Stones-to-Minimize-the-Total.js)
 
-### 💻 JavaScript
+### 💻 JavaScript (4)
 
 1. [Debounce](./Javascript/Debounce.js)
 2. [Flatten Deeply Nested Array](./Javascript/Flatten-Deeply-Nested-Array.js)
 3. [Nested Array Generator](./Javascript/Nested-Array-Generator.js)
 4. [Promise Time Limit](./Javascript/Promise-Time-Limit.js)
 
-### 🔗 Linked List
+### 🔗 Linked List (9)
 
 1. [Add Two Numbers](./Linked-List/Add-Two-Numbers.js)
 2. [Double a Number Represented as a Linked List](./Linked-List/Double-a-Number-Represented-as-a-Linked-List.js)
@@ -163,8 +163,9 @@
 6. [Merge Nodes in Between Zeros](./Linked-List/Merge-Nodes-in-Between-Zeros.js)
 7. [Next Greater Node In Linked List](./Linked-List/Next-Greater-Node-In-Linked-List.js)
 8. [Remove Duplicates from Sorted List II](./Linked-List/Remove-Duplicates-from-Sorted-List-II.js)
+9. [Rotate List](./Linked-List/Rotate-List.js)
 
-### ➗ Math
+### ➗ Math (8)
 
 1. [Alice and Bob Playing Flower Game](./Math/Alice-and-Bob-Playing-Flower-Game.js)
 2. [Broken Calculator](./Math/Broken-Calculator.js)
@@ -175,7 +176,7 @@
 7. [Vowels Game in a String](./Math/Vowels-Game-in-a-String.js)
 8. [Vowels of All Substrings](./Math/Vowels-of-All-Substrings.js)
 
-### 📐 Matrix
+### 📐 Matrix (6)
 
 1. [Battleships in a Board](./Matrix/Battleships-in-a-Board.js)
 2. [Matrix Block Sum](./Matrix/Matrix-Block-Sum.js)
@@ -184,7 +185,7 @@
 5. [Shortest Bridge](./Matrix/Shortest-Bridge.js)
 6. [Sort the Students by Their Kth Score](./Matrix/Sort-the-Students-by-Their-Kth-Score.js)
 
-### ➕ Prefix Sum
+### ➕ Prefix Sum (7)
 
 1. [Find All Good Indices](./Prefix-Sum/Find-All-Good-Indices.js)
 2. [Find Good Days to Rob the Bank](./Prefix-Sum/Find-Good-Days-to-Rob-the-Bank.js)
@@ -193,14 +194,14 @@
 5. [Statistics from a Large Sample](./Prefix-Sum/Statistics-from-a-Large-Sample.js)
 6. [Sum of Absolute Differences in a Sorted Array](./Prefix-Sum/Sum-of-Absolute-Differences-in-a-Sorted-Array.js)
 
-### 🪟 Sliding Window
+### 🪟 Sliding Window (4)
 
 1. [Find the Power of K Size Subarrays I](./Sliding-Window/Find-the-Power-of-K-Size-Subarrays-I.js)
 2. [Max Consecutive Ones III](./Sliding-Window/Max-Consecutive-Ones-III.js)
 3. [Maximize the Confusion of an Exam](./Sliding-Window/Maximize-the-Confusion-of-an-Exam.js)
 4. [Number of Substrings Containing All Three Characters](./Sliding-Window/Number-of-Substrings-Containing-All-Three-Characters.js)
 
-### 📚 Stack
+### 📚 Stack (8)
 
 1. [Build an Array With Stack Operations](./Stack/Build-an-Array-With-Stack-Operations.js)
 2. [Construct Smallest Number From DI String](./Stack/Construct-Smallest-Number-From-DI-String.js)
@@ -211,14 +212,14 @@
 7. [Remove All Adjacent Duplicates in String II](./Stack/Remove-All-Adjacent-Duplicates-in-String-II.js)
 8. [Removing Stars From a String](./Stack/Removing-Stars-From-a-String.js)
 
-### 📝 String
+### 📝 String (4)
 
 1. [Execution of All Suffix Instructions Staying in a Grid](./String/Execution-of-All-Suffix-Instructions-Staying-in-a-Grid.js)
 2. [Find the Kth Largest Integer in the Array](./String/Find-the-Kth-Largest-Integer-in-the-Array.js)
 3. [Hash Divided String](./String/Hash-Divided-String.js)
 4. [Print Words Vertically](./String/Print-Words-Vertically.js)
 
-### 🌳 Tree
+### 🌳 Tree (20)
 
 1. [Binary Search Tree to Greater Sum Tree](./Tree/Binary-Search-Tree-to-Greater-Sum-Tree.js)
 2. [Binary Tree Coloring Game](./Tree/Binary-Tree-Coloring-Game.js)
@@ -241,13 +242,13 @@
 19. [Reverse Odd Levels of Binary Tree](./Tree/Reverse-Odd-Levels-of-Binary-Tree.js)
 20. [Sum of Nodes with Even Valued Grandparent](./Tree/Sum-of-Nodes-with-Even-Valued-Grandparent.js)
 
-### 🔤 Trie
+### 🔤 Trie (3)
 
 1. [Lexicographical Numbers](./Trie/Lexicographical-Numbers.js)
 2. [Remove Sub Folders from the Filesystem](./Trie/Remove-Sub-Folders-from-the-Filesystem.js)
 3. [Replace Words](./Trie/Replace-Words.js)
 
-### ⬅️➡️ Two Pointers
+### ⬅️➡️ Two Pointers (6)
 
 1. [Append Characters to String to Make Subsequence](./Two-Pointers/Append-Characters-to-String-to-Make-Subsequence.js)
 2. [Find K Closest Elements](./Two-Pointers/Find-K-Closest-Elements.js)
