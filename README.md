@@ -32,10 +32,11 @@
 1. [Bitwise AND of Numbers Range](./BitWise/Bitwise-AND-of-Numbers-Range.js)
 2. [Count Number of Maximum Bitwise OR Subsets](./BitWise/Count-Number-of-Maximum-Bitwise-OR-Subsets.js)
 3. [Find The Original Array of Prefix Xor](./BitWise/Find-The-Original-Array-of-Prefix-Xor.js)
-4. [Minimum Flips to Make a OR b Equal to c](./BitWise/Minimum-Flips-to-Make-a-OR-b-Equal-to-c.js)
-5. [Minimum Number of Operations to Make Array XOR Equal to K](./BitWise/Minimum-Number-of-Operations-to-Make-Array-XOR-Equal-to-K.js)
-6. [Minimum Operations to Make Binary Array Elements Equal to One I](./BitWise/Minimum-Operations%20to-Make-Binary-Array-Elements-Equal-to-One-I.js)
-7. [Neighboring Bitwise XOR](./BitWise/Neighboring-Bitwise-XOR.js)
+4. [Maximum OR](./BitWise/Maximum-OR.js)
+5. [Minimum Flips to Make a OR b Equal to c](./BitWise/Minimum-Flips-to-Make-a-OR-b-Equal-to-c.js)
+6. [Minimum Number of Operations to Make Array XOR Equal to K](./BitWise/Minimum-Number-of-Operations-to-Make-Array-XOR-Equal-to-K.js)
+7. [Minimum Operations to Make Binary Array Elements Equal to One I](./BitWise/Minimum-Operations%20to-Make-Binary-Array-Elements-Equal-to-One-I.js)
+8. [Neighboring Bitwise XOR](./BitWise/Neighboring-Bitwise-XOR.js)
 
 ### 🗂️ Bucket Sort
 
