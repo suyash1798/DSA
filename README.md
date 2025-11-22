@@ -245,9 +245,10 @@
 ### ⬅️➡️ Two Pointers
 
 1. [Append Characters to String to Make Subsequence](./Two-Pointers/Append-Characters-to-String-to-Make-Subsequence.js)
-2. [Find Positive Integer Solution for a Given Equation](./Two-Pointers/Find-Positive-Integer-Solution-for-a-Given-Equation.js)
-3. [Interval List Intersections](./Two-Pointers/Interval-List-Intersections.js)
-4. [Partition Array According to Given Pivot](./Two-Pointers/Partition-Array-According-to-Given-Pivot.js)
-5. [Separate Black and White Balls](./Two-Pointers/Separate-Black-and-White-Balls.js)
+2. [Find K Closest Elements](./Two-Pointers/Find-K-Closest-Elements.js)
+3. [Find Positive Integer Solution for a Given Equation](./Two-Pointers/Find-Positive-Integer-Solution-for-a-Given-Equation.js)
+4. [Interval List Intersections](./Two-Pointers/Interval-List-Intersections.js)
+5. [Partition Array According to Given Pivot](./Two-Pointers/Partition-Array-According-to-Given-Pivot.js)
+6. [Separate Black and White Balls](./Two-Pointers/Separate-Black-and-White-Balls.js)
 
 ---
