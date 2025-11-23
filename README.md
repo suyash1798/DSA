@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 190** 🎉
+**Total Problems Solved: 191** 🎉
 
 ## 📖 Problems by Topic
 
@@ -63,7 +63,7 @@
 7. [Frequency Tracker](./Design/Frequency-Tracker.js)
 8. [Operations on Tree](./Design/Operations-on-Tree.js)
 
-### 💡 Dynamic Programming (13)
+### 💡 Dynamic Programming (14)
 
 1. [0 1 KnapSack](./Dynamic-Programming/0-1%20KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
@@ -75,9 +75,10 @@
 8. [Minimum Path Cost in a Grid](./Dynamic-Programming/Minimum-Path-Cost-in-a-Grid.js)
 9. [Minimum Path Sum](./Dynamic-Programming/Minimum-Path-Sum.js)
 10. [Minimum Subset Sum Difference](./Dynamic-Programming/Minimum-Subset-Sum-Difference.js)
-11. [Staircase](./Dynamic-Programming/Staircase.js)
-12. [Subset Sum](./Dynamic-Programming/Subset-Sum.js)
-13. [Target Sum](./Dynamic-Programming/Target-Sum.js)
+11. [Ones and Zeroes](./Dynamic-Programming/Ones-and-Zeroes.js)
+12. [Staircase](./Dynamic-Programming/Staircase.js)
+13. [Subset Sum](./Dynamic-Programming/Subset-Sum.js)
+14. [Target Sum](./Dynamic-Programming/Target-Sum.js)
 
 ### 🌐 Graph (12)
 
