@@ -1,16 +1,17 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 188** 🎉
+**Total Problems Solved: 189** 🎉
 
 ## 📖 Problems by Topic
 
-### 🔢 Array (5)
+### 🔢 Array (6)
 
 1. [Adding Spaces to a String](./Array/Adding-Spaces-to-a-String.js)
 2. [Find Occurrences of an Element in an Array](./Array/Find-Occurrences-of-an-Element-in-an-Array.js)
 3. [Number of Subarrays That Match a Pattern I](./Array/Number-of-Subarrays-That-Match-a-Pattern-I.js)
-4. [Reduction Operations to Make the Array Elements Equal](./Array/Reduction-Operations-to-Make-the-Array-Elements-Equal.js)
-5. [Sum of Even Numbers After Queries](./Array/Sum-of-Even-Numbers-After-Queries.js)
+4. [Range Sum of Sorted Subarray Sums](./Array/Range-Sum-of-Sorted-Subarray-Sums.js)
+5. [Reduction Operations to Make the Array Elements Equal](./Array/Reduction-Operations-to-Make-the-Array-Elements-Equal.js)
+6. [Sum of Even Numbers After Queries](./Array/Sum-of-Even-Numbers-After-Queries.js)
 
 ### 🔄 Backtracking (10)
 
