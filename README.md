@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 189** 🎉
+**Total Problems Solved: 190** 🎉
 
 ## 📖 Problems by Topic
 
@@ -94,7 +94,7 @@
 11. [The Time When the Network Becomes Idle](./Graph/The-Time-When-the-Network-Becomes-Idle.js)
 12. [Unit Conversion I](./Graph/Unit-Conversion-I.js)
 
-### 🎯 Greedy (26)
+### 🎯 Greedy (27)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -111,17 +111,18 @@
 13. [Maximum Alternating Sum of Squares](./Greedy/Maximum-Alternating-Sum-of-Squares.js)
 14. [Minimum Elements to Add to Form a Given Sum](./Greedy/Minimum-Elements-to-Add-to-Form-a-Given-Sum.js)
 15. [Minimum Number of Changes to Make Binary String Beautiful](./Greedy/Minimum-Number-of-Changes-to-Make-Binary-String-Beautiful.js)
-16. [Minimum Number of Operations to Make Array Empty](./Greedy/Minimum-Number-of-Operations-to-Make-Array-Empty.js)
-17. [Minimum Number of Pushes to Type Word II](./Greedy/Minimum-Number-of-Pushes-to-Type-Word-II.js)
-18. [Minimum Processing Time](./Greedy/Minimum-Processing-Time.js)
-19. [Minimum Suffix Flips](./Greedy/Minimum-Suffix-Flips.js)
-20. [Optimal Partition of String](./Greedy/Optimal-Partition-of-String.js)
-21. [Partition Array Such That Maximum Difference Is K](./Greedy/Partition-Array-Such-That-Maximum-Difference-Is-K.js)
-22. [Partition Labels](./Greedy/Partition-Labels.js)
-23. [Partitioning Into Minimum Number Of Deci Binary Numbers](./Greedy/Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers.js)
-24. [Queue Reconstruction by Height](./Greedy/Queue-Reconstruction-by-Height.js)
-25. [Smallest Palindromic Rearrangement I](./Greedy/Smallest-Palindromic-Rearrangement-I.js)
-26. [Time Needed to Rearrange a Binary String](./Greedy/Time-Needed-to-Rearrange-a-Binary-String.js)
+16. [Minimum Number of Food Buckets to Feed the Hamsters](./Greedy/Minimum-Number-of-Food-Buckets-to-Feed-the-Hamsters.js)
+17. [Minimum Number of Operations to Make Array Empty](./Greedy/Minimum-Number-of-Operations-to-Make-Array-Empty.js)
+18. [Minimum Number of Pushes to Type Word II](./Greedy/Minimum-Number-of-Pushes-to-Type-Word-II.js)
+19. [Minimum Processing Time](./Greedy/Minimum-Processing-Time.js)
+20. [Minimum Suffix Flips](./Greedy/Minimum-Suffix-Flips.js)
+21. [Optimal Partition of String](./Greedy/Optimal-Partition-of-String.js)
+22. [Partition Array Such That Maximum Difference Is K](./Greedy/Partition-Array-Such-That-Maximum-Difference-Is-K.js)
+23. [Partition Labels](./Greedy/Partition-Labels.js)
+24. [Partitioning Into Minimum Number Of Deci Binary Numbers](./Greedy/Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers.js)
+25. [Queue Reconstruction by Height](./Greedy/Queue-Reconstruction-by-Height.js)
+26. [Smallest Palindromic Rearrangement I](./Greedy/Smallest-Palindromic-Rearrangement-I.js)
+27. [Time Needed to Rearrange a Binary String](./Greedy/Time-Needed-to-Rearrange-a-Binary-String.js)
 
 ### 🗺️ HashMap (15)
 
