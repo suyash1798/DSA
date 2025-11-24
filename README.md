@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 194** 🎉
+**Total Problems Solved: 195** 🎉
 
 ## 📖 Problems by Topic
 
@@ -64,22 +64,23 @@
 7. [Frequency Tracker](./Design/Frequency-Tracker.js)
 8. [Operations on Tree](./Design/Operations-on-Tree.js)
 
-### 💡 Dynamic Programming (14)
+### 💡 Dynamic Programming (15)
 
 1. [0 1 KnapSack](./Dynamic-Programming/0-1%20KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
 3. [Count of Subset Sum](./Dynamic-Programming/Count-of-Subset-Sum.js)
 4. [Equal Subset Sum Partition](./Dynamic-Programming/Equal-Subset-Sum-Partition.js)
 5. [Fibonacci Numbers](./Dynamic-Programming/Fibonacci-Numbers.js)
-6. [Longest Fibonacci Subarray](./Dynamic-Programming/Longest-Fibonacci-Subarray.js)
-7. [Maximum Absolute Sum of Any Subarray](./Dynamic-Programming/Maximum-Absolute-Sum-of-Any-Subarray.js)
-8. [Minimum Path Cost in a Grid](./Dynamic-Programming/Minimum-Path-Cost-in-a-Grid.js)
-9. [Minimum Path Sum](./Dynamic-Programming/Minimum-Path-Sum.js)
-10. [Minimum Subset Sum Difference](./Dynamic-Programming/Minimum-Subset-Sum-Difference.js)
-11. [Ones and Zeroes](./Dynamic-Programming/Ones-and-Zeroes.js)
-12. [Staircase](./Dynamic-Programming/Staircase.js)
-13. [Subset Sum](./Dynamic-Programming/Subset-Sum.js)
-14. [Target Sum](./Dynamic-Programming/Target-Sum.js)
+6. [Longest Arithmetic Subsequence](./Dynamic-Programming/Longest-Arithmetic-Subsequence.js)
+7. [Longest Fibonacci Subarray](./Dynamic-Programming/Longest-Fibonacci-Subarray.js)
+8. [Maximum Absolute Sum of Any Subarray](./Dynamic-Programming/Maximum-Absolute-Sum-of-Any-Subarray.js)
+9. [Minimum Path Cost in a Grid](./Dynamic-Programming/Minimum-Path-Cost-in-a-Grid.js)
+10. [Minimum Path Sum](./Dynamic-Programming/Minimum-Path-Sum.js)
+11. [Minimum Subset Sum Difference](./Dynamic-Programming/Minimum-Subset-Sum-Difference.js)
+12. [Ones and Zeroes](./Dynamic-Programming/Ones-and-Zeroes.js)
+13. [Staircase](./Dynamic-Programming/Staircase.js)
+14. [Subset Sum](./Dynamic-Programming/Subset-Sum.js)
+15. [Target Sum](./Dynamic-Programming/Target-Sum.js)
 
 ### 🌐 Graph (13)
 
