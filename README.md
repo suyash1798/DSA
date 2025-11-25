@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 196** 🎉
+**Total Problems Solved: 197** 🎉
 
 ## 📖 Problems by Topic
 
@@ -98,7 +98,7 @@
 12. [The Time When the Network Becomes Idle](./Graph/The-Time-When-the-Network-Becomes-Idle.js)
 13. [Unit Conversion I](./Graph/Unit-Conversion-I.js)
 
-### 🎯 Greedy (28)
+### 🎯 Greedy (29)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -128,6 +128,7 @@
 26. [Removing Minimum and Maximum From Array](./Greedy/Removing-Minimum-and-Maximum-From-Array.js)
 27. [Smallest Palindromic Rearrangement I](./Greedy/Smallest-Palindromic-Rearrangement-I.js)
 28. [Time Needed to Rearrange a Binary String](./Greedy/Time-Needed-to-Rearrange-a-Binary-String.js)
+29. [Maximum Palindromes After Operations](./Greedy/Maximum-Palindromes-After-Operations.js)
 
 ### 🗺️ HashMap (16)
 
