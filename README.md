@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 203** 🎉
+**Total Problems Solved: 204** 🎉
 
 ## 📖 Problems by Topic
 
@@ -84,7 +84,7 @@
 16. [Count Ways To Build Good Strings](./Dynamic-Programming/Count-Ways-To-Build-Good-Strings.js)
 17. [Number of Ways to Buy Pens and Pencils](./Dynamic-Programming/Number-of-Ways-to-Buy-Pens-and-Pencils.js)
 
-### 🌐 Graph (13)
+### 🌐 Graph (14)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -99,6 +99,7 @@
 11. [Shortest Distance After Road Addition Queries I](./Graph/Shortest-Distance-After-Road-Addition-Queries-I.js)
 12. [The Time When the Network Becomes Idle](./Graph/The-Time-When-the-Network-Becomes-Idle.js)
 13. [Unit Conversion I](./Graph/Unit-Conversion-I.js)
+14. [Minimum Cost of a Path With Special Roads](./Graph/Minimum-Cost-of-a-Path-With-Special-Roads.js)
 
 ### 🎯 Greedy (30)
 
