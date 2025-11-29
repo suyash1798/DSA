@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 208** 🎉
+**Total Problems Solved: 210** 🎉
 
 ## 📖 Problems by Topic
 
@@ -214,7 +214,7 @@
 5. [Statistics from a Large Sample](./Prefix-Sum/Statistics-from-a-Large-Sample.js)
 6. [Sum of Absolute Differences in a Sorted Array](./Prefix-Sum/Sum-of-Absolute-Differences-in-a-Sorted-Array.js)
 
-### 🪟 Sliding Window (6)
+### 🪟 Sliding Window (7)
 
 1. [Find the Power of K Size Subarrays I](./Sliding-Window/Find-the-Power-of-K-Size-Subarrays-I.js)
 2. [Longest Substring Without Repeating Characters](./Sliding-Window/Longest-Substring-Without-Repeating-Characters.js)
@@ -222,6 +222,7 @@
 4. [Maximize the Confusion of an Exam](./Sliding-Window/Maximize-the-Confusion-of-an-Exam.js)
 5. [Number of Substrings Containing All Three Characters](./Sliding-Window/Number-of-Substrings-Containing-All-Three-Characters.js)
 6. [Continuous Subarrays](./Sliding-Window/Continuous-Subarrays.js)
+7. [Jump Game VII](./Sliding-Window/Jump-Game-VII.js)
 
 ### 📚 Stack (8)
 
@@ -270,7 +271,7 @@
 2. [Remove Sub Folders from the Filesystem](./Trie/Remove-Sub-Folders-from-the-Filesystem.js)
 3. [Replace Words](./Trie/Replace-Words.js)
 
-### ⬅️➡️ Two Pointers (6)
+### ⬅️➡️ Two Pointers (7)
 
 1. [Append Characters to String to Make Subsequence](./Two-Pointers/Append-Characters-to-String-to-Make-Subsequence.js)
 2. [Find K Closest Elements](./Two-Pointers/Find-K-Closest-Elements.js)
@@ -278,5 +279,6 @@
 4. [Interval List Intersections](./Two-Pointers/Interval-List-Intersections.js)
 5. [Partition Array According to Given Pivot](./Two-Pointers/Partition-Array-According-to-Given-Pivot.js)
 6. [Separate Black and White Balls](./Two-Pointers/Separate-Black-and-White-Balls.js)
+7. [Make String a Subsequence Using Cyclic Increments](./Two-Pointers/Make-String-a-Subsequence-Using-Cyclic-Increments.js)
 
 ---
