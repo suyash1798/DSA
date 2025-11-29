@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 205** 🎉
+**Total Problems Solved: 206** 🎉
 
 ## 📖 Problems by Topic
 
@@ -169,7 +169,7 @@
 3. [Nested Array Generator](./Javascript/Nested-Array-Generator.js)
 4. [Promise Time Limit](./Javascript/Promise-Time-Limit.js)
 
-### 🔗 Linked List (10)
+### 🔗 Linked List (11)
 
 1. [Add Two Numbers](./Linked-List/Add-Two-Numbers.js)
 2. [Double a Number Represented as a Linked List](./Linked-List/Double-a-Number-Represented-as-a-Linked-List.js)
@@ -181,6 +181,7 @@
 8. [Remove Duplicates from Sorted List II](./Linked-List/Remove-Duplicates-from-Sorted-List-II.js)
 9. [Rotate List](./Linked-List/Rotate-List.js)
 10. [Populating Next Right Pointers in Each Node](./Linked-List/Populating-Next-Right-Pointers-in-Each-Node.js)
+11. [Reorder List](./Linked-List/Reorder-List.js)
 
 ### ➗ Math (8)
 
