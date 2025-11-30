@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 216** 🎉
+**Total Problems Solved: 217** 🎉
 
 ## 📖 Problems by Topic
 
@@ -248,7 +248,7 @@
 3. [Hash Divided String](./String/Hash-Divided-String.js)
 4. [Print Words Vertically](./String/Print-Words-Vertically.js)
 
-### 🌳 Tree (20)
+### 🌳 Tree (21)
 
 1. [Binary Search Tree to Greater Sum Tree](./Tree/Binary-Search-Tree-to-Greater-Sum-Tree.js)
 2. [Binary Tree Coloring Game](./Tree/Binary-Tree-Coloring-Game.js)
@@ -270,6 +270,7 @@
 18. [Pseudo Palindromic Paths in a Binary Tree](./Tree/Pseudo-Palindromic-Paths-in-a-Binary-Tree.js)
 19. [Reverse Odd Levels of Binary Tree](./Tree/Reverse-Odd-Levels-of-Binary-Tree.js)
 20. [Sum of Nodes with Even Valued Grandparent](./Tree/Sum-of-Nodes-with-Even-Valued-Grandparent.js)
+21. [Flatten Binary Tree to Linked List](./Tree/Flatten-Binary-Tree-to-Linked-List.js)
 
 ### 🔤 Trie (3)
 
