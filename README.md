@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 219** 🎉
+**Total Problems Solved: 220** 🎉
 
 ## 📖 Problems by Topic
 
@@ -105,7 +105,7 @@
 13. [Unit Conversion I](./Graph/Unit-Conversion-I.js)
 14. [Minimum Cost of a Path With Special Roads](./Graph/Minimum-Cost-of-a-Path-With-Special-Roads.js)
 
-### 🎯 Greedy (31)
+### 🎯 Greedy (32)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -138,6 +138,7 @@
 29. [Maximum Palindromes After Operations](./Greedy/Maximum-Palindromes-After-Operations.js)
 30. [The Number of Weak Characters in the Game](./Greedy/The-Number-of-Weak-Characters-in-the-Game.js)
 31. [Remove Covered Intervals](./Greedy/Remove-Covered-Intervals.js)
+32. [Maximum Value after Insertion](./Greedy/Maximum-Value-after-Insertion.js)
 
 ### 🗺️ HashMap (17)
 
