@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 223** 🎉
+**Total Problems Solved: 224** 🎉
 
 ## 📖 Problems by Topic
 
@@ -140,7 +140,7 @@
 31. [Remove Covered Intervals](./Greedy/Remove-Covered-Intervals.js)
 32. [Maximum Value after Insertion](./Greedy/Maximum-Value-after-Insertion.js)
 
-### 🗺️ HashMap (18)
+### 🗺️ HashMap (19)
 
 1. [Convert an Array Into a 2D Array With Conditions](./HashMap/Convert-an-Array-Into-a-2D-Array-With-Conditions.js)
 2. [Count Number of Distinct Integers After Reverse Operations](./HashMap/Count-Number-of-Distinct-Integers-After-Reverse-Operations.js)
@@ -160,6 +160,7 @@
 16. [K-diff Pairs in an Array](./HashMap/K-diff-Pairs-in-an-Array.js)
 17. [Pairs of Songs With Total Durations Divisible by 60](./HashMap/Pairs-of-Songs-With-Total-Durations-Divisible-by-60.js)
 18. [Construct K Palindrome Strings](./HashMap/Construct-K-Palindrome-Strings.js)
+19. [K Divisible Elements Subarrays](./HashMap/K-Divisible-Elements-Subarrays.js)
 
 ### 🏔️ Heap (5)
 
