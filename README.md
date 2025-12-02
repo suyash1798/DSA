@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 226** 🎉
+**Total Problems Solved: 227** 🎉
 
 ## 📖 Problems by Topic
 
@@ -164,13 +164,14 @@
 18. [Construct K Palindrome Strings](./HashMap/Construct-K-Palindrome-Strings.js)
 19. [K Divisible Elements Subarrays](./HashMap/K-Divisible-Elements-Subarrays.js)
 
-### 🏔️ Heap (5)
+### 🏔️ Heap (6)
 
 1. [Divide Intervals Into Minimum Number of Groups](./Heap/Divide-Intervals-Into-Minimum-Number-of-Groups.js)
 2. [K Closest Points to Origin](./Heap/K-Closest-Points-to-Origin.js)
 3. [Kth Smallest Element in a Sorted Matrix](./Heap/Kth-Smallest-Element-in-a-Sorted-Matrix.js)
 4. [Remove Stones to Minimize the Total](./Heap/Remove-Stones-to-Minimize-the-Total.js)
 5. [Furthest Building You Can Reach](./Heap/Furthest-Building-You-Can-Reach.js)
+6. [Merge k Sorted Lists](./Heap/Merge-k-Sorted-Lists.js)
 
 ### 💻 JavaScript (4)
 
