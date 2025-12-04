@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 231** 🎉
+**Total Problems Solved: 233** 🎉
 
 ## 📖 Problems by Topic
 
@@ -56,7 +56,7 @@
 3. [Sum of Beauty of All Substrings](./Counting/Sum-of-Beauty-of-All-Substrings.js)
 4. [Count Number of Homogenous Substrings](./Counting/Count-Number-of-Homogenous-Substrings.js)
 
-### 🛠️ Design (10)
+### 🛠️ Design (11)
 
 1. [Cache With Time Limit](./Design/Cache-With-Time-Limit.js)
 2. [Design a Stack With Increment Operation](./Design/Design-a-Stack-With-Increment-Operation.js)
@@ -68,6 +68,7 @@
 8. [Operations on Tree](./Design/Operations-on-Tree.js)
 9. [Apply Discount Every n Orders](./Design/Apply-Discount-Every-n-Orders.js)
 10. [Complete Binary Tree Inserter](./Design/Complete-Binary-Tree-Inserter.js)
+11. [Serialize and Deserialize Binary Tree](./Design/Serialize-and-Deserialize-Binary-Tree.js)
 
 ### 💡 Dynamic Programming (18)
 
@@ -264,7 +265,7 @@
 3. [Hash Divided String](./String/Hash-Divided-String.js)
 4. [Print Words Vertically](./String/Print-Words-Vertically.js)
 
-### 🌳 Tree (21)
+### 🌳 Tree (22)
 
 1. [Binary Search Tree to Greater Sum Tree](./Tree/Binary-Search-Tree-to-Greater-Sum-Tree.js)
 2. [Binary Tree Coloring Game](./Tree/Binary-Tree-Coloring-Game.js)
@@ -287,6 +288,7 @@
 19. [Reverse Odd Levels of Binary Tree](./Tree/Reverse-Odd-Levels-of-Binary-Tree.js)
 20. [Sum of Nodes with Even Valued Grandparent](./Tree/Sum-of-Nodes-with-Even-Valued-Grandparent.js)
 21. [Flatten Binary Tree to Linked List](./Tree/Flatten-Binary-Tree-to-Linked-List.js)
+22. [Binary Tree Maximum Path Sum](./Tree/Binary-Tree-Maximum-Path-Sum.js)
 
 ### 🔤 Trie (3)
 
