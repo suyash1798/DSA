@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 239** 🎉
+**Total Problems Solved: 240** 🎉
 
 ## 📖 Problems by Topic
 
@@ -214,7 +214,7 @@
 7. [Vowels Game in a String](./Math/Vowels-Game-in-a-String.js)
 8. [Vowels of All Substrings](./Math/Vowels-of-All-Substrings.js)
 
-### 📐 Matrix (10)
+### 📐 Matrix (11)
 
 1. [Battleships in a Board](./Matrix/Battleships-in-a-Board.js)
 2. [Matrix Block Sum](./Matrix/Matrix-Block-Sum.js)
@@ -225,6 +225,7 @@
 7. [Shortest Bridge](./Matrix/Shortest-Bridge.js)
 8. [Equal Sum Grid Partition I](./Matrix/Equal-Sum-Grid-Partition-I.js)
 9. [Sort The Students By Their Kth Score](./Matrix/Sort-the-Students-by-Their-Kth-Score.js)
+10. [Unique Paths](./Matrix/Unique-Paths.js)
 
 ### ➕ Prefix Sum (8)
 
