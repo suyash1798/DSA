@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 236** 🎉
+**Total Problems Solved: 237** 🎉
 
 ## 📖 Problems by Topic
 
@@ -92,7 +92,7 @@
 17. [Number of Ways to Buy Pens and Pencils](./Dynamic-Programming/Number-of-Ways-to-Buy-Pens-and-Pencils.js)
 18. [Largest Divisible Subset](./Dynamic-Programming/Largest-Divisible-Subset.js)
 
-### 🌐 Graph (16)
+### 🌐 Graph (17)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -110,6 +110,7 @@
 14. [Unit Conversion I](./Graph/Unit-Conversion-I.js)
 15. [Minimum Cost of a Path With Special Roads](./Graph/Minimum-Cost-of-a-Path-With-Special-Roads.js)
 16. [Course Schedule](./Graph/Course-Schedule.js)
+17. [Course Schedule II](./Graph/Course-Schedule-II.js)
 
 ### 🎯 Greedy (32)
 
