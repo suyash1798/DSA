@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 237** 🎉
+**Total Problems Solved: 238** 🎉
 
 ## 📖 Problems by Topic
 
@@ -71,7 +71,7 @@
 11. [Serialize and Deserialize Binary Tree](./Design/Serialize-and-Deserialize-Binary-Tree.js)
 12. [LRU Cache](./Design/LRU-Cache.js)
 
-### 💡 Dynamic Programming (18)
+### 💡 Dynamic Programming (19)
 
 1. [0 1 KnapSack](./Dynamic-Programming/0-1-KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
@@ -91,6 +91,7 @@
 16. [Count Ways To Build Good Strings](./Dynamic-Programming/Count-Ways-To-Build-Good-Strings.js)
 17. [Number of Ways to Buy Pens and Pencils](./Dynamic-Programming/Number-of-Ways-to-Buy-Pens-and-Pencils.js)
 18. [Largest Divisible Subset](./Dynamic-Programming/Largest-Divisible-Subset.js)
+19. [Longest Increasing Subsequence](./Dynamic-Programming/Longest-Increasing-Subsequence.js)
 
 ### 🌐 Graph (17)
 
