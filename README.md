@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 244** 🎉
+**Total Problems Solved: 245** 🎉
 
 ## 📖 Problems by Topic
 
@@ -229,6 +229,7 @@
 8. [Equal Sum Grid Partition I](./Matrix/Equal-Sum-Grid-Partition-I.js)
 9. [Sort The Students By Their Kth Score](./Matrix/Sort-the-Students-by-Their-Kth-Score.js)
 10. [Unique Paths](./Matrix/Unique-Paths.js)
+11. [Spiral Matrix](./Matrix/Spiral-Matrix.js)
 
 ### ➕ Prefix Sum (9)
 
