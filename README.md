@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 249** 🎉
+**Total Problems Solved: 251** 🎉
 
 ## 📖 Problems by Topic
 
@@ -98,7 +98,7 @@
 18. [Largest Divisible Subset](./Dynamic-Programming/Largest-Divisible-Subset.js)
 19. [Longest Increasing Subsequence](./Dynamic-Programming/Longest-Increasing-Subsequence.js)
 
-### 🌐 Graph (18)
+### 🌐 Graph (19)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -118,6 +118,7 @@
 16. [Course Schedule](./Graph/Course-Schedule.js)
 17. [Course Schedule II](./Graph/Course-Schedule-II.js)
 18. [Clone Graph](./Graph/Clone-Graph.js)
+19. [Satisfiability of Equality Equations](./Graph/Satisfiability-of-Equality-Equations.js)
 
 ### 🎯 Greedy (33)
 
@@ -235,7 +236,7 @@
 10. [Unique Paths](./Matrix/Unique-Paths.js)
 11. [Spiral Matrix](./Matrix/Spiral-Matrix.js)
 
-### ➕ Prefix Sum (9)
+### ➕ Prefix Sum (10)
 
 1. [Find All Good Indices](./Prefix-Sum/Find-All-Good-Indices.js)
 2. [Find Good Days to Rob the Bank](./Prefix-Sum/Find-Good-Days-to-Rob-the-Bank.js)
@@ -246,6 +247,7 @@
 7. [Ways to Make a Fair Array](./Prefix-Sum/Ways-to-Make-a-Fair-Array.js)
 8. [Longest Mountain In Array](./Prefix-Sum/Longest-Mountain-in-Array.js)
 9. [Subarray Sum Equals K](./Prefix-Sum/Subarray-Sum-Equals-K.js)
+10. [Trapping Rain Water](./Prefix-Sum/Trapping-Rain-Water.js)
 
 ### 🪟 Sliding Window (12)
 
