@@ -114,3 +114,72 @@ BrowserHistory.prototype.forward = function(steps) {
  * var param_2 = obj.back(steps)
  * var param_3 = obj.forward(steps)
  */
+
+
+
+
+
+/** Linked List One */
+
+
+
+
+var ListNode = function(url){
+    this.url = url;
+
+    this.next = null;
+    this.prev = null;
+}
+
+/**
+ * @param {string} homepage
+ */
+var BrowserHistory = function(homepage) {
+    this.tail = new ListNode(homepage); 
+};
+
+/** 
+ * @param {string} url
+ * @return {void}
+ */
+BrowserHistory.prototype.visit = function(url) {
+    var node = new ListNode(url);
+    node.prev = this.tail;
+
+    this.tail.next = node;
+    this.tail = this.tail.next;
+};
+
+/** 
+ * @param {number} steps
+ * @return {string}
+ */
+BrowserHistory.prototype.back = function(steps) {
+    while(this.tail.prev && steps > 0){
+        this.tail = this.tail.prev;
+        steps--;
+    }
+
+    return this.tail.url;
+};
+
+/** 
+ * @param {number} steps
+ * @return {string}
+ */
+BrowserHistory.prototype.forward = function(steps) {
+    while(this.tail.next && steps > 0){
+        this.tail = this.tail.next;
+        steps--;
+    }
+
+    return this.tail.url;
+};
+
+/** 
+ * Your BrowserHistory object will be instantiated and called as such:
+ * var obj = new BrowserHistory(homepage)
+ * obj.visit(url)
+ * var param_2 = obj.back(steps)
+ * var param_3 = obj.forward(steps)
+ */
