@@ -49,3 +49,27 @@ var uniquePaths = function(m, n) {
 
     return dp[m-1][n-1];
 };
+
+
+
+
+
+/**
+ * @param {number} m
+ * @param {number} n
+ * @return {number}
+ */
+var uniquePaths = function (m, n) {
+    let dp = new Array(m).fill(0).map(() => new Array(n).fill(-1));
+    function dfs(row, col) {
+        if (row >= m || col >= n) return 0;
+
+        if (row === m - 1 && col === n - 1) return 1;
+
+        if(dp[row][col] !== -1) return dp[row][col];
+
+        return dp[row][col] = dfs(row + 1, col) + dfs(row, col + 1);
+    }
+
+    return dfs(0, 0);
+};
