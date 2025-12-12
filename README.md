@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 267** 🎉
+**Total Problems Solved: 268** 🎉
 
 ## 📖 Problems by Topic
 
@@ -77,7 +77,7 @@
 15. [Design Underground System](./Design/Design-Underground-System.js)
 16. [Min Stack](./Design/Min-Stack.js)
 
-### 💡 Dynamic Programming (34)
+### 💡 Dynamic Programming (35)
 
 1. [0 1 KnapSack](./Dynamic-Programming/0-1-KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
@@ -113,6 +113,7 @@
 32. [Longest Palindromic Substring](./Dynamic-Programming/Longest-Palindromic-Substring.js)
 33. [Palindromic Substrings](./Dynamic-Programming/Palindromic-Substrings.js)
 34. [Longest Palindromic Subsequence](./Dynamic-Programming/Longest-Palindromic-Subsequence.js)
+35. [Minimum Insertion Steps to Make a String Palindrome](./Dynamic-Programming/Minimum-Insertion-Steps-to-Make-a-String-Palindrome.js)
 
 ### 🌐 Graph (19)
 
