@@ -47,3 +47,39 @@ var lengthOfLIS = function (nums) {
 
     return Math.max(...dp);
 };
+
+
+
+
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var lengthOfLIS = function(nums) {
+    let dp = new Array(nums.length).fill(0);
+
+    function dfs(index){
+        if(index === nums.length) return 0;
+
+        if(dp[index] !== 0) return dp[index];
+
+        let len = 0;
+
+        for(let i = index; i < nums.length; i++){
+            if(nums[index] >= nums[i]) continue;
+
+            len = Math.max(len, dfs(i));
+        }
+
+        return dp[index] = 1 + len;
+    }
+
+    let max = 0;
+
+    for(let i = 0; i < nums.length; i++){
+        max = Math.max(max, dfs(i));
+    }
+
+    return max;
+};
