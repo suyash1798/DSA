@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 273** 🎉
+**Total Problems Solved: 274** 🎉
 
 ## 📖 Problems by Topic
 
@@ -270,73 +270,7 @@
 9. [Subarray Sum Equals K](./Prefix-Sum/Subarray-Sum-Equals-K.js)
 10. [Trapping Rain Water](./Prefix-Sum/Trapping-Rain-Water.js)
 
-### 🪟 Sliding Window (12)
-
-1. [Find the Power of K Size Subarrays I](./Sliding-Window/Find-the-Power-of-K-Size-Subarrays-I.js)
-2. [Longest Substring Without Repeating Characters](./Sliding-Window/Longest-Substring-Without-Repeating-Characters.js)
-3. [Max Consecutive Ones III](./Sliding-Window/Max-Consecutive-Ones-III.js)
-4. [Maximize the Confusion of an Exam](./Sliding-Window/Maximize-the-Confusion-of-an-Exam.js)
-5. [Number of Substrings Containing All Three Characters](./Sliding-Window/Number-of-Substrings-Containing-All-Three-Characters.js)
-6. [Continuous Subarrays](./Sliding-Window/Continuous-Subarrays.js)
-7. [Jump Game VII](./Sliding-Window/Jump-Game-VII.js)
-8. [Length of Longest Subarray With at Most K Frequency](./Sliding-Window/Length-of-Longest-Subarray-With-at-Most-K-Frequency.js)
-9. [Longest Substring Of All Vowels in Order](./Sliding-Window/Longest-Substring-Of-All-Vowels-in-Order.js)
-10. [Count Subarrays Where Max Element Appears at Least K Times](./Sliding-Window/Count-Subarrays-Where-Max-Element-Appears-at-Least-K-Times.js)
-
-11. [Count Substrings With K Frequency Characters I](./Sliding-Window/Count-Substrings-With-K-Frequency-Characters-I.js)
-12. [Sliding Window Maximum](./Sliding-Window/Sliding-Window-Maximum.js)
-
-### 📚 Stack (8)
-
-1. [Build an Array With Stack Operations](./Stack/Build-an-Array-With-Stack-Operations.js)
-2. [Construct Smallest Number From DI String](./Stack/Construct-Smallest-Number-From-DI-String.js)
-3. [Evaluate the Bracket Pairs of a String](./Stack/Evaluate-the-Bracket-Pairs-of-a-String.js)
-4. [Minimum Add to Make Parentheses Valid](./Stack/Minimum-Add-to-Make-Parentheses-Valid.js)
-5. [Next Greater Element II](./Stack/Next-Greater-Element-II.js)
-6. [Online Stock Span](./Stack/Online-Stock-Span.js)
-7. [Remove All Adjacent Duplicates in String II](./Stack/Remove-All-Adjacent-Duplicates-in-String-II.js)
-8. [Removing Stars From a String](./Stack/Removing-Stars-From-a-String.js)
-
-### 🔤 String (n)
-
-1. [Execution of All Suffix Instructions Staying in a Grid](./String/Execution-of-All-Suffix-Instructions-Staying-in-a-Grid.js)
-2. [Find the Kth Largest Integer in the Array](./String/Find-the-Kth-Largest-Integer-in-the-Array.js)
-3. [Hash Divided String](./String/Hash-Divided-String.js)
-4. [Print Words Vertically](./String/Print-Words-Vertically.js)
-n+1. [Reverse Words With Same Vowel Count](./String/Reverse-Words-With-Same-Vowel-Count.js)
-
-### 🌳 Tree (22)
-
-1. [Binary Search Tree to Greater Sum Tree](./Tree/Binary-Search-Tree-to-Greater-Sum-Tree.js)
-2. [Binary Tree Coloring Game](./Tree/Binary-Tree-Coloring-Game.js)
-3. [Construct Binary Search Tree from Preorder Traversal](./Tree/Construct-Binary-Search-Tree-from-Preorder-Traversal.js)
-4. [Construct Binary Tree from Preorder and Inorder Traversal](./Tree/Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.js)
-5. [Count Nodes Equal to Average of Subtree](./Tree/Count-Nodes-Equal-to-Average-of-Subtree.js)
-6. [Create Binary Tree From Descriptions](./Tree/Create-Binary-Tree-From-Descriptions.js)
-7. [Deepest Leaves Sum](./Tree/Deepest-Leaves-Sum.js)
-8. [Delete Nodes And Return Forest](./Tree/Delete-Nodes-And-Return-Forest.js)
-9. [Find Bottom Left Tree Value](./Tree/Find-Bottom-Left-Tree-Value.js)
-10. [Find Largest Value in Each Tree Row](./Tree/Find-Largest-Value-in-Each-Tree-Row.js)
-11. [K th Largest Perfect Subtree Size in Binary Tree](./Tree/K-th-Largest-Perfect-Subtree-Size-in-Binary-Tree.js)
-12. [Lowest Common Ancestor of a Binary Search Tree](./Tree/Lowest-Common-Ancestor-of-a-Binary-Search-Tree.js)
-13. [Lowest Common Ancestor of a Binary Tree](./Tree/Lowest-Common-Ancestor-of-a-Binary-Tree.js)
-14. [Maximum Binary Tree II](./Tree/Maximum-Binary-Tree-II.js)
-15. [Maximum Binary Tree](./Tree/Maximum-Binary-Tree.js)
-16. [Maximum Difference Between Node and Ancestor](./Tree/Maximum-Difference-Between-Node-and-Ancestor.js)
-17. [Path Sum II](./Tree/Path-Sum-II.js)
-18. [Pseudo Palindromic Paths in a Binary Tree](./Tree/Pseudo-Palindromic-Paths-in-a-Binary-Tree.js)
-19. [Reverse Odd Levels of Binary Tree](./Tree/Reverse-Odd-Levels-of-Binary-Tree.js)
-20. [Sum of Nodes with Even Valued Grandparent](./Tree/Sum-of-Nodes-with-Even-Valued-Grandparent.js)
-21. [Flatten Binary Tree to Linked List](./Tree/Flatten-Binary-Tree-to-Linked-List.js)
-22. [Binary Tree Maximum Path Sum](./Tree/Binary-Tree-Maximum-Path-Sum.js)
-
-### 🔤 Trie (3)
-
-1. [Lexicographical Numbers](./Trie/Lexicographical-Numbers.js)
-2. [Remove Sub Folders from the Filesystem](./Trie/Remove-Sub-Folders-from-the-Filesystem.js)
-3. [Replace Words](./Trie/Replace-Words.js)
-
-### ⬅️➡️ Two Pointers (8)
+### ⛓️ Two Pointers (9)
 
 1. [Append Characters to String to Make Subsequence](./Two-Pointers/Append-Characters-to-String-to-Make-Subsequence.js)
 2. [Find K Closest Elements](./Two-Pointers/Find-K-Closest-Elements.js)
@@ -346,5 +280,6 @@ n+1. [Reverse Words With Same Vowel Count](./String/Reverse-Words-With-Same-Vowe
 6. [Separate Black and White Balls](./Two-Pointers/Separate-Black-and-White-Balls.js)
 7. [Make String a Subsequence Using Cyclic Increments](./Two-Pointers/Make-String-a-Subsequence-Using-Cyclic-Increments.js)
 8. [Sentence Similarity III](./Two-Pointers/Sentence-Similarity-III.js)
+9. [Minimum Moves to Balance Circular Array](./Two-Pointers/Minimum-Moves-to-Balance-Circular-Array.js)
 
 ---
