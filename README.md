@@ -1,10 +1,10 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 273** 🎉
+**Total Problems Solved: 286** 🎉
 
 ## 📖 Problems by Topic
 
-### 🔢 Array (8)
+### 🔢 Array (10)
 
 1. [Adding Spaces to a String](./Array/Adding-Spaces-to-a-String.js)
 2. [Find Occurrences of an Element in an Array](./Array/Find-Occurrences-of-an-Element-in-an-Array.js)
@@ -14,8 +14,10 @@
 6. [Reduction Operations to Make the Array Elements Equal](./Array/Reduction-Operations-to-Make-the-Array-Elements-Equal.js)
 7. [Sum of Even Numbers After Queries](./Array/Sum-of-Even-Numbers-After-Queries.js)
 8. [Number of Zero-Filled Subarrays](./Array/Number-of-Zero-Filled-Subarrays.js)
+9. [Sort Integers by Binary Reflection](./Array/Sort-Integers-by-Binary-Reflection.js)
+10. [Rotate Array](./Array/Rotate-Array.js)
 
-### 🔄 Backtracking (12)
+### 🔄 Backtracking (13)
 
 1. [Combination Sum III](./Backtracking/Combination-Sum-III.js)
 2. [Combinations](./Backtracking/Combinations.js)
@@ -29,6 +31,7 @@
 10. [The k th Lexicographical String of All Happy Strings of Length n](./Backtracking/The-k-th-Lexicographical-String-of-All-Happy-Strings-of-Length-n.js)
 11. [Combination Sum](./Backtracking/Combination-Sum.js)
 12. [N-Queens](./Backtracking/N-Queens.js)
+13. [Letter Case Permutation](./Backtracking/Letter-Case-Permutation.js)
 
 ### 🔍 Binary Search (3)
 
@@ -77,7 +80,7 @@
 15. [Design Underground System](./Design/Design-Underground-System.js)
 16. [Min Stack](./Design/Min-Stack.js)
 
-### 💡 Dynamic Programming (38)
+### 💡 Dynamic Programming (40)
 
 1. [0 1 KnapSack](./Dynamic-Programming/0-1-KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
@@ -117,6 +120,8 @@
 36. [Triangle](./Dynamic-Programming/Triangle.js)
 37. [Minimum Falling Path Sum](./Dynamic-Programming/Minimum-Falling-Path-Sum.js)
 38. [Maximal Square](./Dynamic-Programming/Maximal-Square.js)
+39. [Combination Sum IV](./Dynamic-Programming/Combination-Sum-IV.js)
+40. [K Concatenation Maximum Sum](./Dynamic-Programming/K-Concatenation-Maximum-Sum.js)
 
 ### 🌐 Graph (19)
 
@@ -198,7 +203,7 @@
 18. [Construct K Palindrome Strings](./HashMap/Construct-K-Palindrome-Strings.js)
 19. [K Divisible Elements Subarrays](./HashMap/K-Divisible-Elements-Subarrays.js)
 
-### ⚙️ Heap (10)
+### ⚙️ Heap (11)
 
 1. [Divide Intervals Into Minimum Number of Groups](./Heap/Divide-Intervals-Into-Minimum-Number-of-Groups.js)
 2. [K Closest Points to Origin](./Heap/K-Closest-Points-to-Origin.js)
@@ -210,6 +215,7 @@
 8. [Find Median from Data Stream](./Heap/Find-Median-from-Data-Stream.js)
 9. [Reorganize String](./Heap/Reorganize-String.js)
 10. [Absolute Difference Between Maximum and Minimum K Elements](./Heap/Absolute-Difference-Between-Maximum-and-Minimum-K-Elements.js)
+11. [Kth Largest Element in a Stream](./Heap/Kth-Largest-Element-in-a-Stream.js)
 
 ### 💻 JavaScript (4)
 
@@ -232,7 +238,7 @@
 10. [Populating Next Right Pointers in Each Node](./Linked-List/Populating-Next-Right-Pointers-in-Each-Node.js)
 11. [Reorder List](./Linked-List/Reorder-List.js)
 
-### ➗ Math (8)
+### ➗ Math (10)
 
 1. [Alice and Bob Playing Flower Game](./Math/Alice-and-Bob-Playing-Flower-Game.js)
 2. [Broken Calculator](./Math/Broken-Calculator.js)
@@ -242,6 +248,8 @@
 6. [Sum of Square Numbers](./Math/Sum-of-Square-Numbers.js)
 7. [Vowels Game in a String](./Math/Vowels-Game-in-a-String.js)
 8. [Vowels of All Substrings](./Math/Vowels-of-All-Substrings.js)
+9. [Largest Prime from Consecutive Prime Sum](./Math/Largest-Prime-from-Consecutive-Prime-Sum.js)
+10. [Number of Smooth Descent Periods of a Stock](./Math/Number-of-Smooth-Descent-Periods-of-a-Stock.js)
 
 ### 📐 Matrix (11)
 
@@ -270,7 +278,7 @@
 9. [Subarray Sum Equals K](./Prefix-Sum/Subarray-Sum-Equals-K.js)
 10. [Trapping Rain Water](./Prefix-Sum/Trapping-Rain-Water.js)
 
-### 🪟 Sliding Window (12)
+### 🪟 Sliding Window (14)
 
 1. [Find the Power of K Size Subarrays I](./Sliding-Window/Find-the-Power-of-K-Size-Subarrays-I.js)
 2. [Longest Substring Without Repeating Characters](./Sliding-Window/Longest-Substring-Without-Repeating-Characters.js)
@@ -285,6 +293,8 @@
 
 11. [Count Substrings With K Frequency Characters I](./Sliding-Window/Count-Substrings-With-K-Frequency-Characters-I.js)
 12. [Sliding Window Maximum](./Sliding-Window/Sliding-Window-Maximum.js)
+13. [Maximum Sum of Almost Unique Subarray](./Sliding-Window/Maximum-Sum-of-Almost-Unique-Subarray.js)
+14. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./Sliding-Window/Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit.js)
 
 ### 📚 Stack (8)
 
@@ -297,15 +307,15 @@
 7. [Remove All Adjacent Duplicates in String II](./Stack/Remove-All-Adjacent-Duplicates-in-String-II.js)
 8. [Removing Stars From a String](./Stack/Removing-Stars-From-a-String.js)
 
-### 🔤 String (n)
+### 🔤 String (5)
 
 1. [Execution of All Suffix Instructions Staying in a Grid](./String/Execution-of-All-Suffix-Instructions-Staying-in-a-Grid.js)
 2. [Find the Kth Largest Integer in the Array](./String/Find-the-Kth-Largest-Integer-in-the-Array.js)
 3. [Hash Divided String](./String/Hash-Divided-String.js)
 4. [Print Words Vertically](./String/Print-Words-Vertically.js)
-n+1. [Reverse Words With Same Vowel Count](./String/Reverse-Words-With-Same-Vowel-Count.js)
+5. [Reverse Words With Same Vowel Count](./String/Reverse-Words-With-Same-Vowel-Count.js)
 
-### 🌳 Tree (22)
+### 🌳 Tree (23)
 
 1. [Binary Search Tree to Greater Sum Tree](./Tree/Binary-Search-Tree-to-Greater-Sum-Tree.js)
 2. [Binary Tree Coloring Game](./Tree/Binary-Tree-Coloring-Game.js)
@@ -329,6 +339,7 @@ n+1. [Reverse Words With Same Vowel Count](./String/Reverse-Words-With-Same-Vowe
 20. [Sum of Nodes with Even Valued Grandparent](./Tree/Sum-of-Nodes-with-Even-Valued-Grandparent.js)
 21. [Flatten Binary Tree to Linked List](./Tree/Flatten-Binary-Tree-to-Linked-List.js)
 22. [Binary Tree Maximum Path Sum](./Tree/Binary-Tree-Maximum-Path-Sum.js)
+23. [Longest Univalue Path](./Tree/Longest-Univalue-Path.js)
 
 ### 🔤 Trie (3)
 
@@ -336,7 +347,7 @@ n+1. [Reverse Words With Same Vowel Count](./String/Reverse-Words-With-Same-Vowe
 2. [Remove Sub Folders from the Filesystem](./Trie/Remove-Sub-Folders-from-the-Filesystem.js)
 3. [Replace Words](./Trie/Replace-Words.js)
 
-### ⬅️➡️ Two Pointers (8)
+### ⬅️➡️ Two Pointers (10)
 
 1. [Append Characters to String to Make Subsequence](./Two-Pointers/Append-Characters-to-String-to-Make-Subsequence.js)
 2. [Find K Closest Elements](./Two-Pointers/Find-K-Closest-Elements.js)
@@ -346,5 +357,7 @@ n+1. [Reverse Words With Same Vowel Count](./String/Reverse-Words-With-Same-Vowe
 6. [Separate Black and White Balls](./Two-Pointers/Separate-Black-and-White-Balls.js)
 7. [Make String a Subsequence Using Cyclic Increments](./Two-Pointers/Make-String-a-Subsequence-Using-Cyclic-Increments.js)
 8. [Sentence Similarity III](./Two-Pointers/Sentence-Similarity-III.js)
+9. [Minimum Moves to Balance Circular Array](./Two-Pointers/Minimum-Moves-to-Balance-Circular-Array.js)
+10. [Divide Players Into Teams of Equal Skill](./Two-Pointers/Divide-Players-Into-Teams-of-Equal-Skill.js)
 
 ---
