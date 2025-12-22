@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 309** 🎉
+**Total Problems Solved: 310** 🎉
 
 ## 📖 Problems by Topic
 
@@ -152,7 +152,7 @@
 20. [Possible Bipartition](./Graph/Possible-Bipartition.js)
 21. [Find All Possible Recipes from Given Supplies](./Graph/Find-All-Possible-Recipes-from-Given-Supplies.js)
 
-### 🎯 Greedy (35)
+### 🎯 Greedy (36)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -189,6 +189,7 @@
 33. [Non-overlapping Intervals](./Greedy/Non-overlapping-Intervals.js)
 34. [Remove Adjacent Almost Equal Characters](./Greedy/Remove-Adjacent-Almost-Equal-Characters.js)
 35. [Two City Scheduling](./Greedy/Two-City-Scheduling.js)
+36. [Maximum Split of Positive Even Integers](./Greedy/Maximum-Split-of-Positive-Even-Integers.js)
 
 ### 🗺️ HashMap (19)
 
