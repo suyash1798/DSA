@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 315** 🎉
+**Total Problems Solved: 316** 🎉
 
 ## 📖 Problems by Topic
 
@@ -128,7 +128,7 @@
 40. [K Concatenation Maximum Sum](./Dynamic-Programming/K-Concatenation-Maximum-Sum.js)
 41. [Ugly Number II](./Dynamic-Programming/Ugly Number II.js)
 
-### 🧭 Graph (21)
+### 🧭 Graph (22)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -151,6 +151,7 @@
 19. [Satisfiability of Equality Equations](./Graph/Satisfiability-of-Equality-Equations.js)
 20. [Possible Bipartition](./Graph/Possible-Bipartition.js)
 21. [Find All Possible Recipes from Given Supplies](./Graph/Find-All-Possible-Recipes-from-Given-Supplies.js)
+22. [Network Delay Time](./Graph/Network-Delay-Time.js)
 
 ### 🎯 Greedy (37)
 
