@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 322** 🎉
+**Total Problems Solved: 323** 🎉
 
 ## 📖 Problems by Topic
 
@@ -195,7 +195,7 @@
 36. [Maximum Split of Positive Even Integers](./Greedy/Maximum-Split-of-Positive-Even-Integers.js)
 37. [Previous Permutation With One Swap](./Greedy/Previous-Permutation-With-One-Swap.js)
 
-### 🗺️ HashMap (21)
+### 🗺️ HashMap (20)
 
 1. [Convert an Array Into a 2D Array With Conditions](./HashMap/Convert-an-Array-Into-a-2D-Array-With-Conditions.js)
 2. [Count Number of Distinct Integers After Reverse Operations](./HashMap/Count-Number-of-Distinct-Integers-After-Reverse-Operations.js)
@@ -217,7 +217,6 @@
 18. [Construct K Palindrome Strings](./HashMap/Construct-K-Palindrome-Strings.js)
 19. [K Divisible Elements Subarrays](./HashMap/K-Divisible-Elements-Subarrays.js)
 20. [Report Spam Message](./HashMap/Report-Spam-Message.js)
-21. [Count Beautiful Substrings I](./HashMap/Count-Beautiful-Substrings-I.js)
 
 ### ⚙️ Heap (13)
 
@@ -257,7 +256,7 @@
 11. [Reorder List](./Linked-List/Reorder-List.js)
 12. [Insertion Sort List](./Linked-List/Insertion-Sort-List.js)
 
-### ➗ Math (12)
+### ➗ Math (14)
 
 1. [Alice and Bob Playing Flower Game](./Math/Alice-and-Bob-Playing-Flower-Game.js)
 2. [Broken Calculator](./Math/Broken-Calculator.js)
@@ -271,6 +270,8 @@
 10. [Number of Smooth Descent Periods of a Stock](./Math/Number-of-Smooth-Descent-Periods-of-a-Stock.js)
 11. [Sum of Number and Its Reverse](./Math/Sum-of-Number-and-Its-Reverse.js)
 12. [Maximum Manhattan Distance After K Changes](./Math/Maximum-Manhattan-Distance-After-K-Changes.js)
+13. [Count Beautiful Substrings I](./Math/Count-Beautiful-Substrings-I.js)
+14. [Monotone Increasing Digits](./Math/Monotone-Increasing-Digits.js)
 
 ### 📐 Matrix (13)
 
