@@ -40,41 +40,78 @@ strs[i] consists only of digits '0' and '1'.
  * @param {number} n
  * @return {number}
  */
-var findMaxForm = function(strs, m, n) {
-    let total = strs.length, ones = [], zeros = [];
+var findMaxFormMemo = function (strs, m, n) {
 
-    for(let str of strs){
-        let one = 0, zero = 0;
+    let ones = new Array(strs.length).fill(0);
+    let zeros = new Array(strs.length).fill(0);
 
-        for(let ch of str){
-            if(ch === '0') zero++;
-            else one++;
+    for (let i = 0; i < strs.length; i++) {
+        let word = strs[i];
+
+        for (let j = 0; j < word.length; j++) {
+            if (word[j] === '1') ones[i]++;
+            else zeros[i]++;
         }
-
-        ones.push(one);
-        zeros.push(zero);
     }
 
-    let memo = new Array(total).fill(0).map(() => new Array(m+1).fill(0).map(() => new Array(n+1).fill(-1)));
 
-    function dp(index, m, n){
-        if(index === total){
-            return 0;
+    function dfs(index, m, n) {
+        if (index === strs.length) return 0;
+
+        let take = 0;
+
+        if (m >= zeros[index] && n >= ones[index]) {
+            take = 1 + dfs(index + 1, m - zeros[index], n - ones[index]);
         }
+        let leave = dfs(index + 1, m, n);
 
-        if(memo[index][m][n] !== -1){
-            return memo[index][m][n];
-        }
-
-        let take = m >= zeros[index] && n >= ones[index] ? 1 + dp(index+1, m - zeros[index], n - ones[index]) : 0;
-        let leave = dp(index+1, m, n);
-
-        let max = Math.max(
-            take, leave
-        );
-
-        return memo[index][m][n] = max;
+        return Math.max(take, leave);
     }
 
-    return dp(0, m, n);
+    return dfs(0, m, n);
+};
+
+
+
+// Bottom Up DP
+
+
+var findMaxForm = function (strs, m, n) {
+
+    let ones = new Array(strs.length).fill(0);
+    let zeros = new Array(strs.length).fill(0);
+
+    for (let i = 0; i < strs.length; i++) {
+        let word = strs[i];
+
+        for (let j = 0; j < word.length; j++) {
+            if (word[j] === '1') ones[i]++;
+            else zeros[i]++;
+        }
+    }
+
+    let dp = new Array(m + 1).fill(0).map(() => new Array(n + 1).fill(0));
+    
+
+    for (let i = 1; i < strs.length + 1; i++) {
+        for (let j = m; j >= 0; j--) {
+            for (let k = n; k >= 0; k--) {
+                let one = ones[i - 1];
+                let zero = zeros[i - 1];
+
+                let take = 0;
+
+                if (k >= one && j >= zero) {
+                    take = 1 + dp[j - zero][k - one];
+                }
+
+                let leave = dp[j][k];
+
+                dp[j][k] = Math.max(take, leave);
+            }
+        }
+    }
+
+
+    return dp[m][n];
 };
