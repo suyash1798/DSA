@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 335** 🎉
+**Total Problems Solved: 336** 🎉
 
 ## 📖 Problems by Topic
 
@@ -333,7 +333,7 @@
 15. [Reschedule Meetings for Maximum Free Time I](./Sliding-Window/Reschedule-Meetings-for-Maximum-Free-Time-I.js)
 16. [Arithmetic Slices](./Sliding-Window/Arithmetic-Slices.js)
 
-### 📚 Stack (10)
+### 📚 Stack (11)
 
 1. [Build an Array With Stack Operations](./Stack/Build-an-Array-With-Stack-Operations.js)
 2. [Construct Smallest Number From DI String](./Stack/Construct-Smallest-Number-From-DI-String.js)
@@ -345,6 +345,7 @@
 8. [Removing Stars From a String](./Stack/Removing-Stars-From-a-String.js)
 9. [Validate Stack Sequences](./Stack/Validate-Stack-Sequences.js)
 10. [Minimum Remove to Make Valid Parentheses](./Stack/Minimum-Remove-to-Make-Valid-Parentheses.js)
+11. [Reverse Substrings Between Each Pair of Parentheses](./Stack/Reverse-Substrings-Between-Each-Pair-of-Parentheses.js)
 
 ### 🔤 String (5)
 
