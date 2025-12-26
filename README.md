@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 340** 🎉
+**Total Problems Solved: 341** 🎉
 
 ## 📖 Problems by Topic
 
@@ -286,7 +286,7 @@
 14. [Monotone Increasing Digits](./Math/Monotone-Increasing-Digits.js)
 15. [Maximum Prime Difference](./Math/Maximum-Prime-Difference.js)
 
-### 📐 Matrix (13)
+### 📐 Matrix (14)
 
 1. [Battleships in a Board](./Matrix/Battleships-in-a-Board.js)
 2. [Matrix Block Sum](./Matrix/Matrix-Block-Sum.js)
@@ -301,6 +301,7 @@
 11. [Spiral Matrix](./Matrix/Spiral-Matrix.js)
 12. [Magic Squares In Grid](./Matrix/Magic-Squares-In-Grid.js)
 13. [Map of Highest Peak](./Matrix/Map-of-Highest-Peak.js)
+14. [Minimum Number of Flips to Make Binary Grid Palindromic I](./Matrix/Minimum-Number-of-Flips-to-Make-Binary-Grid-Palindromic-I.js)
 
 ### ➕ Prefix Sum (10)
 
