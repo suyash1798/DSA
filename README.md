@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 334** 🎉
+**Total Problems Solved: 335** 🎉
 
 ## 📖 Problems by Topic
 
@@ -133,7 +133,7 @@
 43. [Partition Array for Maximum Sum](./Dynamic-Programming/Partition-Array-for-Maximum-Sum.js)
 44. [Maximum Subarray Sum with One Deletion](./Dynamic-Programming/Maximum-Subarray-Sum-with-One-Deletion.js)
 
-### 🧭 Graph (23)
+### 🧭 Graph (24)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -158,6 +158,7 @@
 21. [Find All Possible Recipes from Given Supplies](./Graph/Find-All-Possible-Recipes-from-Given-Supplies.js)
 22. [Network Delay Time](./Graph/Network-Delay-Time.js)
 23. [Number of Nodes in the Sub-Tree With the Same Label](./Graph/Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label.js)
+24. [Min Cost to Connect All Points](./Graph/Min-Cost-to-Connect-All-Points.js)
 
 ### 🎯 Greedy (40)
 
