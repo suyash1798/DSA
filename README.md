@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 338** 🎉
+**Total Problems Solved: 339** 🎉
 
 ## 📖 Problems by Topic
 
@@ -204,7 +204,7 @@
 39. [Maximum Matching of Players With Trainers](./Greedy/Maximum-Matching-of-Players-With-Trainers.js)
 40. [Destroying Asteroids](./Greedy/Destroying-Asteroids.js)
 
-### 🗺️ HashMap (22)
+### 🗺️ HashMap (23)
 
 1. [Convert an Array Into a 2D Array With Conditions](./HashMap/Convert-an-Array-Into-a-2D-Array-With-Conditions.js)
 2. [Count Number of Distinct Integers After Reverse Operations](./HashMap/Count-Number-of-Distinct-Integers-After-Reverse-Operations.js)
@@ -228,6 +228,7 @@
 20. [Report Spam Message](./HashMap/Report-Spam-Message.js)
 21. [Longest Square Streak in an Array](./HashMap/Longest-Square-Streak-in-an-Array.js)
 22. [Minimum Deletion Cost to Make All Characters Equal](./HashMap/Minimum-Deletion-Cost-to-Make-All-Characters-Equal.js)
+23. [Relocate Marbles](./HashMap/Relocate-Marbles.js)
 
 ### ⚙️ Heap (13)
 
