@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 342** 🎉
+**Total Problems Solved: 343** 🎉
 
 ## 📖 Problems by Topic
 
@@ -161,7 +161,7 @@
 23. [Number of Nodes in the Sub-Tree With the Same Label](./Graph/Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label.js)
 24. [Min Cost to Connect All Points](./Graph/Min-Cost-to-Connect-All-Points.js)
 
-### 🎯 Greedy (41)
+### 🎯 Greedy (42)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -204,6 +204,7 @@
 39. [Maximum Matching of Players With Trainers](./Greedy/Maximum-Matching-of-Players-With-Trainers.js)
 40. [Destroying Asteroids](./Greedy/Destroying-Asteroids.js)
 41. [Pancake Sorting](./Greedy/Pancake-Sorting.js)
+42. [Minimum Number of Arrows to Burst Balloons](./Greedy/Minimum-Number-of-Arrows-to-Burst-Balloons.js)
 
 ### 🗺️ HashMap (23)
 
