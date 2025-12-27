@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 345** 🎉
+**Total Problems Solved: 346** 🎉
 
 ## 📖 Problems by Topic
 
@@ -207,7 +207,7 @@
 41. [Pancake Sorting](./Greedy/Pancake-Sorting.js)
 42. [Minimum Number of Arrows to Burst Balloons](./Greedy/Minimum-Number-of-Arrows-to-Burst-Balloons.js)
 
-### 🗺️ HashMap (24)
+### 🗺️ HashMap (25)
 
 1. [Convert an Array Into a 2D Array With Conditions](./HashMap/Convert-an-Array-Into-a-2D-Array-With-Conditions.js)
 2. [Count Number of Distinct Integers After Reverse Operations](./HashMap/Count-Number-of-Distinct-Integers-After-Reverse-Operations.js)
@@ -233,6 +233,7 @@
 22. [Minimum Deletion Cost to Make All Characters Equal](./HashMap/Minimum-Deletion-Cost-to-Make-All-Characters-Equal.js)
 23. [Relocate Marbles](./HashMap/Relocate-Marbles.js)
 24. [Number of Pairs of Strings With Concatenation Equal to Target](./HashMap/Number-of-Pairs-of-Strings-With-Concatenation-Equal-to-Target.js)
+25. [Groups of Special Equivalent Strings](./HashMap/Groups-of-Special-Equivalent-Strings.js)
 
 ### ⚙️ Heap (13)
 
