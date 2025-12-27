@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 349** 🎉
+**Total Problems Solved: 350** 🎉
 
 ## 📖 Problems by Topic
 
@@ -309,7 +309,7 @@
 13. [Map of Highest Peak](./Matrix/Map-of-Highest-Peak.js)
 14. [Minimum Number of Flips to Make Binary Grid Palindromic I](./Matrix/Minimum-Number-of-Flips-to-Make-Binary-Grid-Palindromic-I.js)
 
-### ➕ Prefix Sum (10)
+### ➕ Prefix Sum (11)
 
 1. [Find All Good Indices](./Prefix-Sum/Find-All-Good-Indices.js)
 2. [Find Good Days to Rob the Bank](./Prefix-Sum/Find-Good-Days-to-Rob-the-Bank.js)
@@ -321,6 +321,7 @@
 8. [Longest Mountain In Array](./Prefix-Sum/Longest-Mountain-in-Array.js)
 9. [Subarray Sum Equals K](./Prefix-Sum/Subarray-Sum-Equals-K.js)
 10. [Trapping Rain Water](./Prefix-Sum/Trapping-Rain-Water.js)
+11. [Plates Between Candles](./Prefix-Sum/Plates-Between-Candles.js)
 
 ### 🪟 Sliding Window (17)
 
