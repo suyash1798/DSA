@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 347** 🎉
+**Total Problems Solved: 348** 🎉
 
 ## 📖 Problems by Topic
 
@@ -135,7 +135,7 @@
 45. [Minimum Number of Coins for Fruits](./Dynamic-Programming/Minimum-Number-of-Coins-for-Fruits.js)
 46. [Out of Boundary Paths](./Dynamic-Programming/Out-of-Boundary-Paths.js)
 
-### 🧭 Graph (24)
+### 🧭 Graph (25)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -161,6 +161,7 @@
 22. [Network Delay Time](./Graph/Network-Delay-Time.js)
 23. [Number of Nodes in the Sub-Tree With the Same Label](./Graph/Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label.js)
 24. [Min Cost to Connect All Points](./Graph/Min-Cost-to-Connect-All-Points.js)
+25. [Number of Restricted Paths From First to Last Node](./Graph/Number-of-Restricted-Paths-From-First-to-Last-Node.js)
 
 ### 🎯 Greedy (42)
 
