@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 351** 🎉
+**Total Problems Solved: 352** 🎉
 
 ## 📖 Problems by Topic
 
@@ -275,7 +275,7 @@
 11. [Reorder List](./Linked-List/Reorder-List.js)
 12. [Insertion Sort List](./Linked-List/Insertion-Sort-List.js)
 
-### ➗ Math (15)
+### ➗ Math (16)
 
 1. [Alice and Bob Playing Flower Game](./Math/Alice-and-Bob-Playing-Flower-Game.js)
 2. [Broken Calculator](./Math/Broken-Calculator.js)
@@ -292,6 +292,7 @@
 13. [Count Beautiful Substrings I](./Math/Count-Beautiful-Substrings-I.js)
 14. [Monotone Increasing Digits](./Math/Monotone-Increasing-Digits.js)
 15. [Maximum Prime Difference](./Math/Maximum-Prime-Difference.js)
+16. [Path In Zigzag Labelled Binary Tree](./Math/Path-In-Zigzag-Labelled-Binary-Tree.js)
 
 ### 📐 Matrix (14)
 
