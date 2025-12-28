@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 359** 🎉
+**Total Problems Solved: 360** 🎉
 
 ## 📖 Problems by Topic
 
@@ -299,7 +299,7 @@
 16. [Path In Zigzag Labelled Binary Tree](./Math/Path-In-Zigzag-Labelled-Binary-Tree.js)
 17. [Smallest All Ones Multiple](./Math/Smallest-All-Ones-Multiple.js)
 
-### 📐 Matrix (14)
+### 📐 Matrix (15)
 
 1. [Battleships in a Board](./Matrix/Battleships-in-a-Board.js)
 2. [Matrix Block Sum](./Matrix/Matrix-Block-Sum.js)
@@ -315,6 +315,7 @@
 12. [Magic Squares In Grid](./Matrix/Magic-Squares-In-Grid.js)
 13. [Map of Highest Peak](./Matrix/Map-of-Highest-Peak.js)
 14. [Minimum Number of Flips to Make Binary Grid Palindromic I](./Matrix/Minimum-Number-of-Flips-to-Make-Binary-Grid-Palindromic-I.js)
+15. [Range Sum Query 2D Immutable](./Matrix/Range-Sum-Query-2D-Immutable.js)
 
 ### ➕ Prefix Sum (12)
 
