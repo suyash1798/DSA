@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 352** 🎉
+**Total Problems Solved: 353** 🎉
 
 ## 📖 Problems by Topic
 
@@ -325,7 +325,7 @@
 10. [Trapping Rain Water](./Prefix-Sum/Trapping-Rain-Water.js)
 11. [Plates Between Candles](./Prefix-Sum/Plates-Between-Candles.js)
 
-### 🪟 Sliding Window (17)
+### 🪟 Sliding Window (18)
 
 1. [Find the Power of K Size Subarrays I](./Sliding-Window/Find-the-Power-of-K-Size-Subarrays-I.js)
 2. [Longest Substring Without Repeating Characters](./Sliding-Window/Longest-Substring-Without-Repeating-Characters.js)
@@ -345,6 +345,7 @@
 15. [Reschedule Meetings for Maximum Free Time I](./Sliding-Window/Reschedule-Meetings-for-Maximum-Free-Time-I.js)
 16. [Arithmetic Slices](./Sliding-Window/Arithmetic-Slices.js)
 17. [Count Alternating Subarrays](./Sliding-Window/Count-Alternating-Subarrays.js)
+18. [Minimum Swaps to Group All 1's Together II](./Sliding-Window/Minimum-Swaps-to-Group-All-1's-Together-II.js)
 
 ### 📚 Stack (11)
 
