@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 360** 🎉
+**Total Problems Solved: 361** 🎉
 
 ## 📖 Problems by Topic
 
@@ -317,7 +317,7 @@
 14. [Minimum Number of Flips to Make Binary Grid Palindromic I](./Matrix/Minimum-Number-of-Flips-to-Make-Binary-Grid-Palindromic-I.js)
 15. [Range Sum Query 2D Immutable](./Matrix/Range-Sum-Query-2D-Immutable.js)
 
-### ➕ Prefix Sum (12)
+### ➕ Prefix Sum (13)
 
 1. [Find All Good Indices](./Prefix-Sum/Find-All-Good-Indices.js)
 2. [Find Good Days to Rob the Bank](./Prefix-Sum/Find-Good-Days-to-Rob-the-Bank.js)
@@ -331,6 +331,7 @@
 10. [Trapping Rain Water](./Prefix-Sum/Trapping-Rain-Water.js)
 11. [Plates Between Candles](./Prefix-Sum/Plates-Between-Candles.js)
 12. [Partition Array into Disjoint Intervals](./Prefix-Sum/Partition-Array-into-Disjoint-Intervals.js)
+13. [Minimum Index of a Valid Split](./Prefix-Sum/Minimum-Index-of-a-Valid-Split.js)
 
 ### 🪟 Sliding Window (18)
 
