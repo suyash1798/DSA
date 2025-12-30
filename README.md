@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 369** 🎉
+**Total Problems Solved: 370** 🎉
 
 ## 📖 Problems by Topic
 
@@ -139,7 +139,7 @@
 48. [Unique Substrings in Wraparound String](./Dynamic-Programming/Unique-Substrings-in-Wraparound-String.js)
 49. [Minimum Cost Path with Alternating Directions II](./Dynamic-Programming/Minimum-Cost-Path-with-Alternating-Directions-II.js)
 
-### 🧭 Graph (25)
+### 🧭 Graph (26)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -166,6 +166,7 @@
 23. [Number of Nodes in the Sub-Tree With the Same Label](./Graph/Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label.js)
 24. [Min Cost to Connect All Points](./Graph/Min-Cost-to-Connect-All-Points.js)
 25. [Number of Restricted Paths From First to Last Node](./Graph/Number-of-Restricted-Paths-From-First-to-Last-Node.js)
+26. [Find Eventual Safe States](./Graph/Find-Eventual-Safe-States.js)
 
 ### 🎯 Greedy (43)
 
