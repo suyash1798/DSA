@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 376** 🎉
+**Total Problems Solved: 377** 🎉
 
 ## 📖 Problems by Topic
 
@@ -327,7 +327,7 @@
 16. [Decode the Slanted Ciphertext](./Matrix/Decode-the-Slanted-Ciphertext.js)
 17. [Count Artifacts That Can Be Extracted](./Matrix/Count-Artifacts-That-Can-Be-Extracted.js)
 
-### ➕ Prefix Sum (14)
+### ➕ Prefix Sum (15)
 
 1. [Find All Good Indices](./Prefix-Sum/Find-All-Good-Indices.js)
 2. [Find Good Days to Rob the Bank](./Prefix-Sum/Find-Good-Days-to-Rob-the-Bank.js)
@@ -343,6 +343,7 @@
 12. [Partition Array into Disjoint Intervals](./Prefix-Sum/Partition-Array-into-Disjoint-Intervals.js)
 13. [Minimum Index of a Valid Split](./Prefix-Sum/Minimum-Index-of-a-Valid-Split.js)
 14. [Minimum Sum of Mountain Triplets II](./Prefix-Sum/Minimum-Sum-of-Mountain-Triplets-II.js)
+15. [Number of Ways to Split Array](./Prefix-Sum/Number-of-Ways-to-Split-Array.js)
 
 ### 🪟 Sliding Window (19)
 
