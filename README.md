@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 381** 🎉
+**Total Problems Solved: 382** 🎉
 
 ## 📖 Problems by Topic
 
@@ -34,13 +34,14 @@
 13. [Letter Case Permutation](./Backtracking/Letter-Case-Permutation.js)
 14. [Split Array into Fibonacci Sequence](./Backtracking/Split-Array-into-Fibonacci-Sequence.js)
 
-### 🔍 Binary Search (5)
+### 🔍 Binary Search (6)
 
 1. [Minimum Absolute Sum Difference](./Binary-Search/Minimum-Absolute-Sum-Difference.js)
 2. [Successful Pairs of Spells and Potions](./Binary-Search/Successful-Pairs-of-Spells-and-Potions.js)
 3. [Search in Rotated Sorted Array](./Binary-Search/Search-in-Rotated-Sorted-Array.js)
 4. [Peak Index in a Mountain Array](./Binary-Search/Peak-Index-in-a-Mountain-Array.js)
 5. [Sum of Mutated Array Closest to Target](./Binary-Search/Sum-of-Mutated-Array-Closest-to-Target.js)
+6. [Capacity To Ship Packages Within D Days](./Binary-Search/Capacity-To-Ship-Packages-Within-D-Days.js)
 
 ### 🔢 BitWise (11)
 
