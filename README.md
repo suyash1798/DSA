@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 389** 🎉
+**Total Problems Solved: 390** 🎉
 
 ## 📖 Problems by Topic
 
@@ -380,7 +380,7 @@
 20. [Minimum Size Subarray Sum](./Sliding-Window/Minimum-Size-Subarray-Sum.js)
 21. [Maximum Erasure Value](./Sliding-Window/Maximum-Erasure-Value.js)
 
-### 📚 Stack (11)
+### 📚 Stack (12)
 
 1. [Build an Array With Stack Operations](./Stack/Build-an-Array-With-Stack-Operations.js)
 2. [Construct Smallest Number From DI String](./Stack/Construct-Smallest-Number-From-DI-String.js)
@@ -393,6 +393,7 @@
 9. [Validate Stack Sequences](./Stack/Validate-Stack-Sequences.js)
 10. [Minimum Remove to Make Valid Parentheses](./Stack/Minimum-Remove-to-Make-Valid-Parentheses.js)
 11. [Reverse Substrings Between Each Pair of Parentheses](./Stack/Reverse-Substrings-Between-Each-Pair-of-Parentheses.js)
+12. [Count Bowl Subarrays](./Stack/Count-Bowl-Subarrays.js)
 
 ### 🔤 String (5)
 
