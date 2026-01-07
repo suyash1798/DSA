@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 410** 🎉
+**Total Problems Solved: 411** 🎉
 
 ## 📖 Problems by Topic
 
@@ -329,7 +329,7 @@
 17. [Smallest All Ones Multiple](./Math/Smallest-All-Ones-Multiple.js)
 18. [Four Divisors](./Math/Four-Divisors.js)
 
-### 📐 Matrix (17)
+### 📐 Matrix (18)
 
 1. [Battleships in a Board](./Matrix/Battleships-in-a-Board.js)
 2. [Matrix Block Sum](./Matrix/Matrix-Block-Sum.js)
@@ -348,6 +348,7 @@
 15. [Range Sum Query 2D Immutable](./Matrix/Range-Sum-Query-2D-Immutable.js)
 16. [Decode the Slanted Ciphertext](./Matrix/Decode-the-Slanted-Ciphertext.js)
 17. [Count Artifacts That Can Be Extracted](./Matrix/Count-Artifacts-That-Can-Be-Extracted.js)
+18. [Valid Sudoku](./Matrix/Valid-Sudoku.js)
 
 ### ➕ Prefix Sum (16)
 
