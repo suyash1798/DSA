@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 418** 🎉
+**Total Problems Solved: 419** 🎉
 
 ## 📖 Problems by Topic
 
@@ -401,7 +401,7 @@
 24. [Replace the Substring for Balanced String](./Sliding-Window/Replace-the-Substring-for-Balanced-String.js)
 25. [Find All Anagrams in a String](./Sliding-Window/Find-All-Anagrams-in-a-String.js)
 
-### 📚 Stack (13)
+### 📚 Stack (14)
 
 1. [Build an Array With Stack Operations](./Stack/Build-an-Array-With-Stack-Operations.js)
 2. [Construct Smallest Number From DI String](./Stack/Construct-Smallest-Number-From-DI-String.js)
@@ -416,6 +416,7 @@
 11. [Reverse Substrings Between Each Pair of Parentheses](./Stack/Reverse-Substrings-Between-Each-Pair-of-Parentheses.js)
 12. [Count Bowl Subarrays](./Stack/Count-Bowl-Subarrays.js)
 13. [Largest Rectangle in Histogram](./Stack/Largest-Rectangle-in-Histogram.js)
+14. [Remove Duplicate Letters](./Stack/Remove-Duplicate-Letters.js)
 
 ### 🔤 String (5)
 
