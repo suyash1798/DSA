@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 432** 🎉
+**Total Problems Solved: 433** 🎉
 
 ## 📖 Problems by Topic
 
@@ -184,7 +184,7 @@
 26. [Find Eventual Safe States](./Graph/Find-Eventual-Safe-States.js)
 27. [All Ancestors of a Node in a Directed Acyclic Graph](./Graph/All-Ancestors-of-a-Node-in-a-Directed-Acyclic-Graph.js)
 
-### 🎯 Greedy (47)
+### 🎯 Greedy (48)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -233,6 +233,7 @@
 45. [Maximum Sum of Three Numbers Divisible by Three](./Greedy/Maximum-Sum-of-Three-Numbers-Divisible-by-Three.js)
 46. [Minimum Operations to Transform Array](./Greedy/Minimum-Operations-to-Transform-Array.js)
 47. [Maximize Happiness of Selected Children](./Greedy/Maximize-Happiness-of-Selected-Children.js)
+48. [Jump Game](./Greedy/Jump-Game.js)
 
 ### 🗺️ HashMap (31)
 
