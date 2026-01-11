@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 430** 🎉
+**Total Problems Solved: 431** 🎉
 
 ## 📖 Problems by Topic
 
@@ -234,7 +234,7 @@
 46. [Minimum Operations to Transform Array](./Greedy/Minimum-Operations-to-Transform-Array.js)
 47. [Maximize Happiness of Selected Children](./Greedy/Maximize-Happiness-of-Selected-Children.js)
 
-### 🗺️ HashMap (29)
+### 🗺️ HashMap (30)
 
 1. [Convert an Array Into a 2D Array With Conditions](./HashMap/Convert-an-Array-Into-a-2D-Array-With-Conditions.js)
 2. [Count Number of Distinct Integers After Reverse Operations](./HashMap/Count-Number-of-Distinct-Integers-After-Reverse-Operations.js)
@@ -265,6 +265,7 @@
 27. [Max Number of K Sum Pairs](./HashMap/Max-Number-of-K-Sum-Pairs.js)
 28. [Longest Balanced Substring I](./HashMap/Longest-Balanced-Substring-I.js)
 29. [Count Pairs That Form a Complete Day II](./HashMap/Count-Pairs-That-Form-a-Complete-Day-II.js)
+30. [Number of Centered Subarrays](./HashMap/Number-of-Centered-Subarrays.js)
 
 ### ⚙️ Heap (16)
 
