@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 435** 🎉
+**Total Problems Solved: 437** 🎉
 
 ## 📖 Problems by Topic
 
@@ -336,7 +336,7 @@
 17. [Smallest All Ones Multiple](./Math/Smallest-All-Ones-Multiple.js)
 18. [Four Divisors](./Math/Four-Divisors.js)
 
-### 📐 Matrix (18)
+### 📐 Matrix (19)
 
 1. [Battleships in a Board](./Matrix/Battleships-in-a-Board.js)
 2. [Matrix Block Sum](./Matrix/Matrix-Block-Sum.js)
@@ -356,6 +356,7 @@
 16. [Decode the Slanted Ciphertext](./Matrix/Decode-the-Slanted-Ciphertext.js)
 17. [Count Artifacts That Can Be Extracted](./Matrix/Count-Artifacts-That-Can-Be-Extracted.js)
 18. [Valid Sudoku](./Matrix/Valid-Sudoku.js)
+19. [Max Area of Island](./Matrix/Max-Area-of-Island.js)
 
 ### ➕ Prefix Sum (16)
 
@@ -489,7 +490,7 @@
 5. [Implement Trie (Prefix Tree)](./Trie/Implement-Trie-%28Prefix-Tree%29.ts)
 6. [Find the Length of the Longest Common Prefix](./Trie/Find-the-Length-of-the-Longest-Common-Prefix.js)
 
-### ⬅️➡️ Two Pointers (18)
+### ⬅️➡️ Two Pointers (19)
 
 1. [Append Characters to String to Make Subsequence](./Two-Pointers/Append-Characters-to-String-to-Make-Subsequence.js)
 2. [Find K Closest Elements](./Two-Pointers/Find-K-Closest-Elements.js)
@@ -509,5 +510,6 @@
 16. [Remove Duplicates from Sorted Array II](./Two-Pointers/Remove-Duplicates-from-Sorted-Array-II.js)
 17. [Find the Duplicate Number](./Two-Pointers/Find-the-Duplicate-Number.js)
 18. [Shortest Subarray to be Removed to Make Array Sorted](./Two-Pointers/Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted.js)
+19. [Container With Most Water](./Two-Pointers/Container-With-Most-Water.js)
 
 ---
