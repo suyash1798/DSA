@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 439** 🎉
+**Total Problems Solved: 440** 🎉
 
 ## 📖 Problems by Topic
 
@@ -269,7 +269,7 @@
 30. [Number of Centered Subarrays](./HashMap/Number-of-Centered-Subarrays.js)
 31. [Count Caesar Cipher Pairs](./HashMap/Count-Caesar-Cipher-Pairs.js)
 
-### ⚙️ Heap (16)
+### ⚙️ Heap (17)
 
 1. [Divide Intervals Into Minimum Number of Groups](./Heap/Divide-Intervals-Into-Minimum-Number-of-Groups.js)
 2. [K Closest Points to Origin](./Heap/K-Closest-Points-to-Origin.js)
@@ -287,6 +287,7 @@
 14. [Top K Frequent Words](./Heap/Top-K-Frequent-Words.js)
 15. [Total Cost to Hire K Workers](./Heap/Total-Cost-to-Hire-K-Workers.js)
 16. [Maximum Sum With at Most K Elements](./Heap/Maximum-Sum-With-at-Most-K-Elements.js)
+17. [Kth Largest Element in an Array](./Heap/Kth-Largest-Element-in-an-Array.js)
 
 ### 💻 JavaScript (4)
 
