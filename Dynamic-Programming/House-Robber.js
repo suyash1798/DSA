@@ -69,3 +69,20 @@ var rob = function (nums) {
 
     return dfs(nums.length - 1);
 };
+
+
+var rob = function (nums) {
+    let n = nums.length;
+    let dp1 = new Array(n + 2).fill(0);
+    let dp2 = new Array(n + 2).fill(0);
+
+    for (let i = n - 1; i >= 0; i--) {
+        dp1[i] = Math.max(dp1[i + 1], nums[i] + dp1[i + 2]);
+    }
+
+    for (let i = n - 2; i >= 0; i--) {
+        dp2[i] = Math.max(dp2[i + 1], nums[i] + dp2[i + 2]);
+    }
+
+    return Math.max(dp1[0], dp2[0]);
+};
