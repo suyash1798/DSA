@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 446** 🎉
+**Total Problems Solved: 447** 🎉
 
 ## 📖 Problems by Topic
 
@@ -36,7 +36,7 @@
 15. [Word Search II](./Backtracking/Word-Search-II.js)
 16. [Word Search](./Backtracking/Word-Search.js)
 
-### 🔍 Binary Search (8)
+### 🔍 Binary Search (9)
 
 1. [Minimum Absolute Sum Difference](./Binary-Search/Minimum-Absolute-Sum-Difference.js)
 2. [Successful Pairs of Spells and Potions](./Binary-Search/Successful-Pairs-of-Spells-and-Potions.js)
@@ -46,6 +46,7 @@
 6. [Capacity To Ship Packages Within D Days](./Binary-Search/Capacity-To-Ship-Packages-Within-D-Days.js)
 7. [Find First and Last Position of Element in Sorted Array](./Binary-Search/Find-First-and-Last-Position-of-Element-in-Sorted-Array.js)
 8. [Separate Squares I](./Binary-Search/Separate-Squares-I.js)
+9. [Search a 2D Matrix](./Binary-Search/Search-a-2D-Matrix.js)
 
 ### 🔢 BitWise (13)
 
