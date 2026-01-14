@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 443** 🎉
+**Total Problems Solved: 444** 🎉
 
 ## 📖 Problems by Topic
 
@@ -318,7 +318,7 @@
 16. [Delete Nodes From Linked List Present in Array](./Linked-List/Delete Nodes-From-Linked-List-Present-in-Array.js)
 17. [Remove Nodes From Linked List](./Linked-List/Remove-Nodes-From-Linked-List.js)
 
-### ➗ Math (18)
+### ➗ Math (19)
 
 1. [Alice and Bob Playing Flower Game](./Math/Alice-and-Bob-Playing-Flower-Game.js)
 2. [Broken Calculator](./Math/Broken-Calculator.js)
@@ -338,6 +338,7 @@
 16. [Path In Zigzag Labelled Binary Tree](./Math/Path-In-Zigzag-Labelled-Binary-Tree.js)
 17. [Smallest All Ones Multiple](./Math/Smallest-All-Ones-Multiple.js)
 18. [Four Divisors](./Math/Four-Divisors.js)
+19. [Happy Number](./Math/Happy-Number.js)
 
 ### 📐 Matrix (20)
 
