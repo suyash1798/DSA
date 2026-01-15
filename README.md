@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 451** 🎉
+**Total Problems Solved: 452** 🎉
 
 ## 📖 Problems by Topic
 
@@ -159,7 +159,7 @@
 59. [Max Dot Product of Two Subsequences](./Dynamic-Programming/Max-Dot-Product-of-Two-Subsequences.js)
 60. [Maximum Number of Jumps to Reach the Last Index](./Dynamic-Programming/Maximum-Number-of-Jumps-to-Reach-the-Last-Index.js)
 
-### 🧭 Graph (28)
+### 🧭 Graph (29)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -189,6 +189,7 @@
 26. [Find Eventual Safe States](./Graph/Find-Eventual-Safe-States.js)
 27. [All Ancestors of a Node in a Directed Acyclic Graph](./Graph/All-Ancestors-of-a-Node-in-a-Directed-Acyclic-Graph.js)
 28. [Shortest Path with Alternating Colors](./Graph/Shortest-Path-with-Alternating-Colors.js)
+29. [Find Minimum Time to Reach Last Room I](./Graph/Find-Minimum-Time-to-Reach-Last-Room-I.js)
 
 ### 🎯 Greedy (49)
 
