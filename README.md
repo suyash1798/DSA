@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 456** 🎉
+**Total Problems Solved: 457** 🎉
 
 ## 📖 Problems by Topic
 
@@ -97,7 +97,7 @@
 16. [Min Stack](./Design/Min-Stack.js)
 17. [Seat Reservation Manager](./Design/Seat-Reservation-Manager.js)
 
-### 💡 Dynamic Programming (61)
+### 💡 Dynamic Programming (62)
 
 1. [0 1 KnapSack](./Dynamic-Programming/0-1-KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
@@ -160,6 +160,7 @@
 59. [Max Dot Product of Two Subsequences](./Dynamic-Programming/Max-Dot-Product-of-Two-Subsequences.js)
 60. [Maximum Number of Jumps to Reach the Last Index](./Dynamic-Programming/Maximum-Number-of-Jumps-to-Reach-the-Last-Index.js)
 61. [Number of Dice Rolls With Target Sum](./Dynamic-Programming/Number-of-Dice-Rolls-With-Target-Sum.js)
+62. [Climbing Stairs II](./Dynamic-Programming/Climbing-Stairs-II.js)
 
 ### 🧭 Graph (30)
 
