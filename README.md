@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 454** 🎉
+**Total Problems Solved: 455** 🎉
 
 ## 📖 Problems by Topic
 
@@ -161,7 +161,7 @@
 60. [Maximum Number of Jumps to Reach the Last Index](./Dynamic-Programming/Maximum-Number-of-Jumps-to-Reach-the-Last-Index.js)
 61. [Number of Dice Rolls With Target Sum](./Dynamic-Programming/Number-of-Dice-Rolls-With-Target-Sum.js)
 
-### 🧭 Graph (29)
+### 🧭 Graph (30)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -192,6 +192,7 @@
 27. [All Ancestors of a Node in a Directed Acyclic Graph](./Graph/All-Ancestors-of-a-Node-in-a-Directed-Acyclic-Graph.js)
 28. [Shortest Path with Alternating Colors](./Graph/Shortest-Path-with-Alternating-Colors.js)
 29. [Find Minimum Time to Reach Last Room I](./Graph/Find-Minimum-Time-to-Reach-Last-Room-I.js)
+30. [Reachable Nodes With Restrictions](./Graph/Reachable-Nodes-With-Restrictions.js)
 
 ### 🎯 Greedy (49)
 
