@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 459** 🎉
+**Total Problems Solved: 460** 🎉
 
 ## 📖 Problems by Topic
 
@@ -164,7 +164,7 @@
 61. [Number of Dice Rolls With Target Sum](./Dynamic-Programming/Number-of-Dice-Rolls-With-Target-Sum.js)
 62. [Climbing Stairs II](./Dynamic-Programming/Climbing-Stairs-II.js)
 
-### 🧭 Graph (30)
+### 🧭 Graph (31)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -196,6 +196,7 @@
 28. [Shortest Path with Alternating Colors](./Graph/Shortest-Path-with-Alternating-Colors.js)
 29. [Find Minimum Time to Reach Last Room I](./Graph/Find-Minimum-Time-to-Reach-Last-Room-I.js)
 30. [Reachable Nodes With Restrictions](./Graph/Reachable-Nodes-With-Restrictions.js)
+31. [Number of Provinces](./Graph/Number-of-Provinces.js)
 
 ### 🎯 Greedy (49)
 
