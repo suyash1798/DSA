@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 468** 🎉
+**Total Problems Solved: 469** 🎉
 
 ## 📖 Problems by Topic
 
@@ -40,7 +40,7 @@
 19. [Combination Sum II](./Backtracking/Combination-Sum-II.js)
 20. [Generate Parentheses](./Backtracking/Generate-Parentheses.js)
 
-### 🔍 Binary Search (10)
+### 🔍 Binary Search (11)
 
 1. [Minimum Absolute Sum Difference](./Binary-Search/Minimum-Absolute-Sum-Difference.js)
 2. [Successful Pairs of Spells and Potions](./Binary-Search/Successful-Pairs-of-Spells-and-Potions.js)
@@ -52,6 +52,7 @@
 8. [Separate Squares I](./Binary-Search/Separate-Squares-I.js)
 9. [Search a 2D Matrix](./Binary-Search/Search-a-2D-Matrix.js)
 10. [Koko Eating Bananas](./Binary-Search/Koko-Eating-Bananas.js)
+11. [Single Element in a Sorted Array](./Binary-Search/Single-Element-in-a-Sorted-Array.js)
 
 ### 🔢 BitWise (13)
 
