@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 475** 🎉
+**Total Problems Solved: 476** 🎉
 
 ## 📖 Problems by Topic
 
@@ -438,7 +438,7 @@
 27. [Longest Subarray of 1's After Deleting One Element](./Sliding-Window/Longest-Subarray-of-1's-After-Deleting-One-Element.js)
 28. [Permutation in String](./Sliding-Window/Permutation-in-String.js)
 
-### 📚 Stack (25)
+### 📚 Stack (26)
 
 1. [Build an Array With Stack Operations](./Stack/Build-an-Array-With-Stack-Operations.js)
 2. [Construct Smallest Number From DI String](./Stack/Construct-Smallest-Number-From-DI-String.js)
@@ -465,6 +465,7 @@
 23. [Minimum Operations to Convert All Elements to Zero](./Stack/Minimum-Operations-to-Convert-All-Elements-to-Zero.js)
 24. [Evaluate Reverse Polish Notation](./Stack/Evaluate-Reverse-Polish-Notation.js)
 25. [Number of Visible People in a Queue](./Stack/Number-of-Visible-People-in-a-Queue.js)
+26. [Minimum Number of Increments on Subarrays to Form a Target Array](./Stack/Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array.js)
 
 ### 🔤 String (5)
 
