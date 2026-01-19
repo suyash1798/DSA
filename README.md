@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 473** 🎉
+**Total Problems Solved: 474** 🎉
 
 ## 📖 Problems by Topic
 
@@ -170,7 +170,7 @@
 63. [Domino and Tromino Tiling](./Dynamic-Programming/Domino-and-Tromino-Tiling.js)
 64. [Maximum Number of Moves in a Grid](./Dynamic-Programming/Maximum-Number-of-Moves-in-a-Grid.js)
 
-### 🧭 Graph (34)
+### 🧭 Graph (35)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -206,6 +206,7 @@
 32. [Find Champion II](./Graph/Find-Champion-II.js)
 33. [Minimum Score of a Path Between Two Cities](./Graph/Minimum-Score-of-a-Path-Between-Two-Cities.js)
 34. [Remove Max Number of Edges to Keep Graph Fully Traversable](./Graph/Remove-Max-Number-of-Edges-to-Keep-Graph-Fully-Traversable.js)
+35. [Minimum Obstacle Removal to Reach Corner](./Graph/Minimum-Obstacle-Removal-to-Reach-Corner.js)
 
 ### 🎯 Greedy (49)
 
