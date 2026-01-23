@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 484** 🎉
+**Total Problems Solved: 485** 🎉
 
 ## 📖 Problems by Topic
 
@@ -17,7 +17,7 @@
 9. [Sort Integers by Binary Reflection](./Array/Sort-Integers-by-Binary-Reflection.js)
 10. [Rotate Array](./Array/Rotate-Array.js)
 
-### 🔄 Backtracking (22)
+### 🔄 Backtracking (23)
 
 1. [Combination Sum III](./Backtracking/Combination-Sum-III.js)
 2. [Combinations](./Backtracking/Combinations.js)
@@ -41,6 +41,7 @@
 20. [Generate Parentheses](./Backtracking/Generate-Parentheses.js)
 21. [Maximum Score Words Formed by Letters](./Backtracking/Maximum-Score-Words-Formed-by-Letters.js)
 22. [N-Queens II](./Backtracking/N-Queens-II.js)
+23. [Sudoku Solver](./Backtracking/Sudoku-Solver.js)
 
 ### 🔍 Binary Search (11)
 
