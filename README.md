@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 488** 🎉
+**Total Problems Solved: 489** 🎉
 
 ## 📖 Problems by Topic
 
@@ -215,7 +215,7 @@
 37. [Maximum Number of K Divisible Components](./Graph/Maximum-Number-of-K-Divisible-Components.js)
 38. [Build a Matrix With Conditions](./Graph/Build-a-Matrix-With-Conditions.js)
 
-### 🎯 Greedy (51)
+### 🎯 Greedy (52)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -268,6 +268,7 @@
 49. [Wiggle Subsequence](./Greedy/Wiggle-Subsequence.js)
 50. [Earliest Possible Day of Full Bloom](./Greedy/Earliest-Possible-Day-of-Full-Bloom.js)
 51. [Reducing Dishes](./Greedy/Reducing-Dishes.js)
+52. [Patching Array](./Greedy/Patching-Array.js)
 
 ### 🗺️ HashMap (32)
 
