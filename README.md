@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 487** 🎉
+**Total Problems Solved: 488** 🎉
 
 ## 📖 Problems by Topic
 
@@ -43,7 +43,7 @@
 22. [N-Queens II](./Backtracking/N-Queens-II.js)
 23. [Sudoku Solver](./Backtracking/Sudoku-Solver.js)
 
-### 🔍 Binary Search (12)
+### 🔍 Binary Search (13)
 
 1. [Minimum Absolute Sum Difference](./Binary-Search/Minimum-Absolute-Sum-Difference.js)
 2. [Successful Pairs of Spells and Potions](./Binary-Search/Successful-Pairs-of-Spells-and-Potions.js)
@@ -57,6 +57,7 @@
 10. [Koko Eating Bananas](./Binary-Search/Koko-Eating-Bananas.js)
 11. [Single Element in a Sorted Array](./Binary-Search/Single-Element-in-a-Sorted-Array.js)
 12. [Split Array Largest Sum](./Binary-Search/Split-Array-Largest-Sum.js)
+13. [Data Stream as Disjoint Intervals](./Binary-Search/Data-Stream-as-Disjoint-Intervals.js)
 
 ### 🔢 BitWise (13)
 
