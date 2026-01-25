@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 489** 🎉
+**Total Problems Solved: 491** 🎉
 
 ## 📖 Problems by Topic
 
@@ -215,7 +215,7 @@
 37. [Maximum Number of K Divisible Components](./Graph/Maximum-Number-of-K-Divisible-Components.js)
 38. [Build a Matrix With Conditions](./Graph/Build-a-Matrix-With-Conditions.js)
 
-### 🎯 Greedy (52)
+### 🎯 Greedy (53)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -269,6 +269,7 @@
 50. [Earliest Possible Day of Full Bloom](./Greedy/Earliest-Possible-Day-of-Full-Bloom.js)
 51. [Reducing Dishes](./Greedy/Reducing-Dishes.js)
 52. [Patching Array](./Greedy/Patching-Array.js)
+53. [IPO](./Greedy/IPO.js)
 
 ### 🗺️ HashMap (32)
 
@@ -419,7 +420,7 @@
 17. [My Calendar III](./Prefix-Sum/My-Calendar-III.js)
 18. [Number of Submatrices That Sum to Target](./Prefix-Sum/Number-of-Submatrices-That-Sum-to-Target.js)
 
-### 🪟 Sliding Window (28)
+### 🪟 Sliding Window (29)
 
 1. [Find the Power of K Size Subarrays I](./Sliding-Window/Find-the-Power-of-K-Size-Subarrays-I.js)
 2. [Longest Substring Without Repeating Characters](./Sliding-Window/Longest-Substring-Without-Repeating-Characters.js)
@@ -450,6 +451,7 @@
 26. [Take K of Each Character From Left and Right](./Sliding-Window/Take-K-of-Each-Character-From-Left-and-Right.js)
 27. [Longest Subarray of 1's After Deleting One Element](./Sliding-Window/Longest-Subarray-of-1's-After-Deleting-One-Element.js)
 28. [Permutation in String](./Sliding-Window/Permutation-in-String.js)
+29. [Smallest Range Covering Elements from K Lists](./Sliding-Window/Smallest-Range-Covering-Elements-from-K-Lists.js)
 
 ### 📚 Stack (26)
 
