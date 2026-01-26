@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 492** 🎉
+**Total Problems Solved: 493** 🎉
 
 ## 📖 Problems by Topic
 
@@ -421,7 +421,7 @@
 17. [My Calendar III](./Prefix-Sum/My-Calendar-III.js)
 18. [Number of Submatrices That Sum to Target](./Prefix-Sum/Number-of-Submatrices-That-Sum-to-Target.js)
 
-### 🪟 Sliding Window (29)
+### 🪟 Sliding Window (30)
 
 1. [Find the Power of K Size Subarrays I](./Sliding-Window/Find-the-Power-of-K-Size-Subarrays-I.js)
 2. [Longest Substring Without Repeating Characters](./Sliding-Window/Longest-Substring-Without-Repeating-Characters.js)
@@ -453,6 +453,7 @@
 27. [Longest Subarray of 1's After Deleting One Element](./Sliding-Window/Longest-Subarray-of-1's-After-Deleting-One-Element.js)
 28. [Permutation in String](./Sliding-Window/Permutation-in-String.js)
 29. [Smallest Range Covering Elements from K Lists](./Sliding-Window/Smallest-Range-Covering-Elements-from-K-Lists.js)
+30. [Maximum Sum of 3 Non-Overlapping Subarrays](./Sliding-Window/Maximum-Sum-of-3-Non-Overlapping-Subarrays.js)
 
 ### 📚 Stack (26)
 
