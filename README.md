@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 493** 🎉
+**Total Problems Solved: 494** 🎉
 
 ## 📖 Problems by Topic
 
@@ -455,7 +455,7 @@
 29. [Smallest Range Covering Elements from K Lists](./Sliding-Window/Smallest-Range-Covering-Elements-from-K-Lists.js)
 30. [Maximum Sum of 3 Non-Overlapping Subarrays](./Sliding-Window/Maximum-Sum-of-3-Non-Overlapping-Subarrays.js)
 
-### 📚 Stack (26)
+### 📚 Stack (27)
 
 1. [Build an Array With Stack Operations](./Stack/Build-an-Array-With-Stack-Operations.js)
 2. [Construct Smallest Number From DI String](./Stack/Construct-Smallest-Number-From-DI-String.js)
@@ -483,6 +483,7 @@
 24. [Evaluate Reverse Polish Notation](./Stack/Evaluate-Reverse-Polish-Notation.js)
 25. [Number of Visible People in a Queue](./Stack/Number-of-Visible-People-in-a-Queue.js)
 26. [Minimum Number of Increments on Subarrays to Form a Target Array](./Stack/Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array.js)
+27. [Number of Atoms](./Stack/Number-of-Atoms.js)
 
 ### 🔤 String (5)
 
