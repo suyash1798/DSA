@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 497** 🎉
+**Total Problems Solved: 498** 🎉
 
 ## 📖 Problems by Topic
 
@@ -176,7 +176,7 @@
 64. [Maximum Number of Moves in a Grid](./Dynamic-Programming/Maximum-Number-of-Moves-in-a-Grid.js)
 65. [Longest Increasing Path in a Matrix](./Dynamic-Programming/Longest-Increasing-Path-in-a-Matrix.js)
 
-### 🧭 Graph (39)
+### 🧭 Graph (40)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -217,6 +217,7 @@
 37. [Maximum Number of K Divisible Components](./Graph/Maximum-Number-of-K-Divisible-Components.js)
 38. [Build a Matrix With Conditions](./Graph/Build-a-Matrix-With-Conditions.js)
 39. [Couples Holding Hands](./Graph/Couples-Holding-Hands.js)
+40. [Swim in Rising Water](./Graph/Swim-in-Rising-Water.js)
 
 ### 🎯 Greedy (54)
 
