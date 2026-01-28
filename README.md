@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 498** 🎉
+**Total Problems Solved: 499** 🎉
 
 ## 📖 Problems by Topic
 
@@ -219,7 +219,7 @@
 39. [Couples Holding Hands](./Graph/Couples-Holding-Hands.js)
 40. [Swim in Rising Water](./Graph/Swim-in-Rising-Water.js)
 
-### 🎯 Greedy (54)
+### 🎯 Greedy (55)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -275,6 +275,7 @@
 52. [Patching Array](./Greedy/Patching-Array.js)
 53. [IPO](./Greedy/IPO.js)
 54. [Max Chunks To Make Sorted II](./Greedy/Max-Chunks-To-Make-Sorted-II.js)
+55. [Longest Binary Subsequence Less Than or Equal to K](./Greedy/Longest-Binary-Subsequence-Less-Than-or-Equal-to-K.js)
 
 ### 🗺️ HashMap (32)
 
