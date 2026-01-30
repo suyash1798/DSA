@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 505** 🎉
+**Total Problems Solved: 506** 🎉
 
 ## 📖 Problems by Topic
 
@@ -223,7 +223,7 @@
 41. [Making A Large Island](./Graph/Making-A-Large-Island.js)
 42. [Similar String Groups](./Graph/Similar-String-Groups.js)
 
-### 🎯 Greedy (55)
+### 🎯 Greedy (56)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -280,6 +280,7 @@
 53. [IPO](./Greedy/IPO.js)
 54. [Max Chunks To Make Sorted II](./Greedy/Max-Chunks-To-Make-Sorted-II.js)
 55. [Longest Binary Subsequence Less Than or Equal to K](./Greedy/Longest-Binary-Subsequence-Less-Than-or-Equal-to-K.js)
+56. [Apply Operations to Make All Array Elements Equal to Zero](./Greedy/Apply-Operations-to-Make-All-Array-Elements-Equal-to-Zero.js)
 
 ### 🗺️ HashMap (32)
 
