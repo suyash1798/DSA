@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 504** 🎉
+**Total Problems Solved: 505** 🎉
 
 ## 📖 Problems by Topic
 
@@ -178,7 +178,7 @@
 65. [Longest Increasing Path in a Matrix](./Dynamic-Programming/Longest-Increasing-Path-in-a-Matrix.js)
 66. [Maximum Product Subarray](./Dynamic-Programming/Maximum-Product-Subarray.js)
 
-### 🧭 Graph (41)
+### 🧭 Graph (42)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -221,6 +221,7 @@
 39. [Couples Holding Hands](./Graph/Couples-Holding-Hands.js)
 40. [Swim in Rising Water](./Graph/Swim-in-Rising-Water.js)
 41. [Making A Large Island](./Graph/Making-A-Large-Island.js)
+42. [Similar String Groups](./Graph/Similar-String-Groups.js)
 
 ### 🎯 Greedy (55)
 
