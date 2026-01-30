@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 506** 🎉
+**Total Problems Solved: 507** 🎉
 
 ## 📖 Problems by Topic
 
@@ -504,7 +504,7 @@
 4. [Print Words Vertically](./String/Print-Words-Vertically.js)
 5. [Reverse Words With Same Vowel Count](./String/Reverse-Words-With-Same-Vowel-Count.js)
 
-### 🌳 Tree (42)
+### 🌳 Tree (43)
 
 1. [Binary Search Tree to Greater Sum Tree](./Tree/Binary-Search-Tree-to-Greater-Sum-Tree.js)
 2. [Binary Tree Coloring Game](./Tree/Binary-Tree-Coloring-Game.js)
@@ -548,6 +548,7 @@
 40. [Balanced Binary Tree](./Tree/Balanced-Binary-Tree.js)
 41. [Kth Smallest Element in a BST](./Tree/Kth-Smallest-Element-in-a-BST.js)
 42. [Flip Equivalent Binary Trees](./Tree/Flip-Equivalent-Binary-Trees.js)
+43. [Find Duplicate Subtrees](./Tree/Find-Duplicate-Subtrees.js)
 
 ### 🔤 Trie (6)
 
