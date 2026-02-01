@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 509** 🎉
+**Total Problems Solved: 510** 🎉
 
 ## 📖 Problems by Topic
 
@@ -89,7 +89,7 @@
 4. [Count Number of Homogenous Substrings](./Counting/Count-Number-of-Homogenous-Substrings.js)
 5. [Majority Element II](./Counting/Majority-Element-II.js)
 
-### 🛠️ Design (17)
+### 🛠️ Design (18)
 
 1. [Cache With Time Limit](./Design/Cache-With-Time-Limit.js)
 2. [Design a Stack With Increment Operation](./Design/Design-a-Stack-With-Increment-Operation.js)
@@ -108,6 +108,7 @@
 15. [Design Underground System](./Design/Design-Underground-System.js)
 16. [Min Stack](./Design/Min-Stack.js)
 17. [Seat Reservation Manager](./Design/Seat-Reservation-Manager.js)
+18. [Maximum Frequency Stack](./Design/Maximum-Frequency-Stack.ts)
 
 ### 💡 Dynamic Programming (66)
 
