@@ -1,10 +1,10 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 517** 🎉
+**Total Problems Solved: 518** 🎉
 
 ## 📖 Problems by Topic
 
-### 🔢 Array (10)
+### 🔢 Array (11)
 
 1. [Adding Spaces to a String](./Array/Adding-Spaces-to-a-String.js)
 2. [Find Occurrences of an Element in an Array](./Array/Find-Occurrences-of-an-Element-in-an-Array.js)
@@ -16,6 +16,7 @@
 8. [Number of Zero-Filled Subarrays](./Array/Number-of-Zero-Filled-Subarrays.js)
 9. [Sort Integers by Binary Reflection](./Array/Sort-Integers-by-Binary-Reflection.js)
 10. [Rotate Array](./Array/Rotate-Array.js)
+11. [Diagonal Traverse II](./Array/Diagonal-Traverse-II.js)
 
 ### 🔄 Backtracking (24)
 
