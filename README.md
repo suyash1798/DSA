@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 522** 🎉
+**Total Problems Solved: 523** 🎉
 
 ## 📖 Problems by Topic
 
@@ -185,7 +185,7 @@
 67. [Minimum Partition Score](./Dynamic-Programming/Minimum-Partition-Score.js)
 68. [Minimum Array Sum](./Dynamic-Programming/Minimum-Array-Sum.js)
 
-### 🧭 Graph (42)
+### 🧭 Graph (43)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -229,6 +229,7 @@
 40. [Swim in Rising Water](./Graph/Swim-in-Rising-Water.js)
 41. [Making A Large Island](./Graph/Making-A-Large-Island.js)
 42. [Similar String Groups](./Graph/Similar-String-Groups.js)
+43. [Number of Operations to Make Network Connected](./Graph/Number-of-Operations-to-Make-Network-Connected.js)
 
 ### 🎯 Greedy (57)
 
