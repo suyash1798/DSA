@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 521** 🎉
+**Total Problems Solved: 522** 🎉
 
 ## 📖 Problems by Topic
 
@@ -517,7 +517,7 @@
 7. [Find And Replace in String](./String/Find-And-Replace-in-String.js)
 8. [Sender With Largest Word Count](./String/Sender-With-Largest-Word-Count.js)
 
-### 🌳 Tree (43)
+### 🌳 Tree (44)
 
 1. [Binary Search Tree to Greater Sum Tree](./Tree/Binary-Search-Tree-to-Greater-Sum-Tree.js)
 2. [Binary Tree Coloring Game](./Tree/Binary-Tree-Coloring-Game.js)
@@ -562,6 +562,7 @@
 41. [Kth Smallest Element in a BST](./Tree/Kth-Smallest-Element-in-a-BST.js)
 42. [Flip Equivalent Binary Trees](./Tree/Flip-Equivalent-Binary-Trees.js)
 43. [Find Duplicate Subtrees](./Tree/Find-Duplicate-Subtrees.js)
+44. [Validate Binary Tree Nodes](./Tree/Validate-Binary-Tree-Nodes.js)
 
 ### 🔤 Trie (6)
 
