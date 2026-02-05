@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 526** 🎉
+**Total Problems Solved: 527** 🎉
 
 ## 📖 Problems by Topic
 
@@ -399,7 +399,7 @@
 18. [Four Divisors](./Math/Four-Divisors.js)
 19. [Happy Number](./Math/Happy-Number.js)
 
-### 📐 Matrix (20)
+### 📐 Matrix (21)
 
 1. [Battleships in a Board](./Matrix/Battleships-in-a-Board.js)
 2. [Matrix Block Sum](./Matrix/Matrix-Block-Sum.js)
@@ -421,6 +421,7 @@
 18. [Valid Sudoku](./Matrix/Valid-Sudoku.js)
 19. [Max Area of Island](./Matrix/Max-Area-of-Island.js)
 20. [Surrounded Regions](./Matrix/Surrounded-Regions.js)
+21. [Valid Tic Tac Toe State](./Matrix/Valid-Tic-Tac-Toe-State.js)
 
 ### ➕ Prefix Sum (18)
 
