@@ -26,22 +26,19 @@ Output: [2,3,4,-1,4]
  * @return {number[]}
  */
 var nextGreaterElements = function (nums) {
+    let n = nums.length;
+    nums = [...nums, ...nums];
+
     let stack = [];
-    let n = nums.length, res = new Array(n);
+    let output = new Array(2 * n).fill(-1);
 
-    for (let index = n - 1; index >= 0; index--) {
-        while (stack.length && stack[stack.length - 1] < nums[index]) stack.pop();
+    for (let i = 2 * n - 1; i >= 0; i--) {
+        while (stack.length && nums[i] >= stack[stack.length - 1]) stack.pop();
 
-        stack.push(nums[index]);
+        if (stack.length) output[i] = stack[stack.length - 1];
+
+        stack.push(nums[i])
     }
 
-    for (let index = n - 1; index >= 0; index--) {
-        while (stack.length && stack[stack.length - 1] <= nums[index]) stack.pop();
-
-        res[index] = stack.length ? stack[stack.length - 1] : -1;
-
-        stack.push(nums[index]);
-    }
-
-    return res;
+    return output.slice(0, n);
 };
