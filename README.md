@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 528** 🎉
+**Total Problems Solved: 529** 🎉
 
 ## 📖 Problems by Topic
 
@@ -187,7 +187,7 @@
 69. [Paint House IV](./Dynamic-Programming/Paint-House-IV.js)
 70. [Maximum Number of Operations With the Same Score II](./Dynamic-Programming/Maximum-Number-of-Operations-With-the-Same-Score-II.js)
 
-### 🧭 Graph (43)
+### 🧭 Graph (44)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -232,6 +232,7 @@
 41. [Making A Large Island](./Graph/Making-A-Large-Island.js)
 42. [Similar String Groups](./Graph/Similar-String-Groups.js)
 43. [Number of Operations to Make Network Connected](./Graph/Number-of-Operations-to-Make-Network-Connected.js)
+44. [Minimum Height Trees](./Graph/Minimum-Height-Trees.js)
 
 ### 🎯 Greedy (57)
 
