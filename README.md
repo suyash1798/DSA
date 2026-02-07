@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 530** 🎉
+**Total Problems Solved: 531** 🎉
 
 ## 📖 Problems by Topic
 
@@ -295,7 +295,7 @@
 56. [Apply Operations to Make All Array Elements Equal to Zero](./Greedy/Apply-Operations-to-Make-All-Array-Elements-Equal-to-Zero.js)
 57. [Minimum Cost to Hire K Workers](./Greedy/Minimum-Cost-to-Hire-K-Workers.js)
 
-### 🗺️ HashMap (32)
+### 🗺️ HashMap (33)
 
 1. [Convert an Array Into a 2D Array With Conditions](./HashMap/Convert-an-Array-Into-a-2D-Array-With-Conditions.js)
 2. [Count Number of Distinct Integers After Reverse Operations](./HashMap/Count-Number-of-Distinct-Integers-After-Reverse-Operations.js)
@@ -329,6 +329,7 @@
 30. [Number of Centered Subarrays](./HashMap/Number-of-Centered-Subarrays.js)
 31. [Count Caesar Cipher Pairs](./HashMap/Count-Caesar-Cipher-Pairs.js)
 32. [Check if Strings Can be Made Equal With Operations II](./HashMap/Check-if-Strings-Can-be-Made-Equal-With-Operations-II.js)
+33. [Minimum Number of Operations to Have Distinct Elements](./HashMap/Minimum-Number-of-Operations-to-Have-Distinct-Elements.js)
 
 ### ⚙️ Heap (18)
 
