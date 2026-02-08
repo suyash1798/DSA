@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 536** 🎉
+**Total Problems Solved: 537** 🎉
 
 ## 📖 Problems by Topic
 
@@ -334,7 +334,7 @@
 32. [Check if Strings Can be Made Equal With Operations II](./HashMap/Check-if-Strings-Can-be-Made-Equal-With-Operations-II.js)
 33. [Minimum Number of Operations to Have Distinct Elements](./HashMap/Minimum-Number-of-Operations-to-Have-Distinct-Elements.js)
 
-### ⚙️ Heap (18)
+### ⚙️ Heap (19)
 
 1. [Divide Intervals Into Minimum Number of Groups](./Heap/Divide-Intervals-Into-Minimum-Number-of-Groups.js)
 2. [K Closest Points to Origin](./Heap/K-Closest-Points-to-Origin.js)
@@ -354,6 +354,7 @@
 16. [Maximum Sum With at Most K Elements](./Heap/Maximum-Sum-With-at-Most-K-Elements.js)
 17. [Kth Largest Element in an Array](./Heap/Kth-Largest-Element-in-an-Array.js)
 18. [Put Marbles in Bags](./Heap/Put-Marbles-in-Bags.js)
+19. [Maximum Product After K Increments](./Heap/Maximum-Product-After-K-Increments.js)
 
 ### 💻 JavaScript (4)
 
