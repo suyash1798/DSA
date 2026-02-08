@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 534** 🎉
+**Total Problems Solved: 535** 🎉
 
 ## 📖 Problems by Topic
 
@@ -430,7 +430,7 @@
 20. [Surrounded Regions](./Matrix/Surrounded-Regions.js)
 21. [Valid Tic Tac Toe State](./Matrix/Valid-Tic-Tac-Toe-State.js)
 
-### ➕ Prefix Sum (18)
+### ➕ Prefix Sum (19)
 
 1. [Find All Good Indices](./Prefix-Sum/Find-All-Good-Indices.js)
 2. [Find Good Days to Rob the Bank](./Prefix-Sum/Find-Good-Days-to-Rob-the-Bank.js)
@@ -450,6 +450,7 @@
 16. [Corporate Flight Bookings](./Prefix-Sum/Corporate-Flight-Bookings.js)
 17. [My Calendar III](./Prefix-Sum/My-Calendar-III.js)
 18. [Number of Submatrices That Sum to Target](./Prefix-Sum/Number-of-Submatrices-That-Sum-to-Target.js)
+19. [Shift Distance Between Two Strings](./Prefix-Sum/Shift-Distance-Between-Two-Strings.js)
 
 ### 🪟 Sliding Window (32)
 
