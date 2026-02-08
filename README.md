@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 535** 🎉
+**Total Problems Solved: 536** 🎉
 
 ## 📖 Problems by Topic
 
@@ -518,7 +518,7 @@
 26. [Minimum Number of Increments on Subarrays to Form a Target Array](./Stack/Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array.js)
 27. [Number of Atoms](./Stack/Number-of-Atoms.js)
 
-### 🔤 String (8)
+### 🔤 String (9)
 
 1. [Execution of All Suffix Instructions Staying in a Grid](./String/Execution-of-All-Suffix-Instructions-Staying-in-a-Grid.js)
 2. [Find the Kth Largest Integer in the Array](./String/Find-the-Kth-Largest-Integer-in-the-Array.js)
@@ -528,6 +528,7 @@
 6. [Find Longest Special Substring That Occurs Thrice I](./String/Find-Longest-Special-Substring-That-Occurs-Thrice-I.js)
 7. [Find And Replace in String](./String/Find-And-Replace-in-String.js)
 8. [Sender With Largest Word Count](./String/Sender-With-Largest-Word-Count.js)
+9. [Length of the Longest Alphabetical Continuous Substring](./String/Length-of-the-Longest-Alphabetical-Continuous-Substring.js)
 
 ### 🌳 Tree (44)
 
