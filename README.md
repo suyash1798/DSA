@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 537** 🎉
+**Total Problems Solved: 538** 🎉
 
 ## 📖 Problems by Topic
 
@@ -587,7 +587,7 @@
 5. [Implement Trie (Prefix Tree)](./Trie/Implement-Trie-%28Prefix-Tree%29.ts)
 6. [Find the Length of the Longest Common Prefix](./Trie/Find-the-Length-of-the-Longest-Common-Prefix.js)
 
-### ⬅️➡️ Two Pointers (22)
+### ⬅️➡️ Two Pointers (23)
 
 1. [Append Characters to String to Make Subsequence](./Two-Pointers/Append-Characters-to-String-to-Make-Subsequence.js)
 2. [Find K Closest Elements](./Two-Pointers/Find-K-Closest-Elements.js)
@@ -611,5 +611,6 @@
 20. [Two Sum II Input Array Is Sorted](./Two-Pointers/Two-Sum-II-Input-Array-Is-Sorted.js)
 21. [Minimum Additions to Make Valid String](./Two-Pointers/Minimum-Additions-to-Make-Valid-String.js)
 22. [Minimum Length of String After Deleting Similar Ends](./Two-Pointers/Minimum-Length-of-String-After-Deleting-Similar-Ends.js)
+23. [Expressive Words](./Two-Pointers/Expressive-Words.js)
 
 ---
