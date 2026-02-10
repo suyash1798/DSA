@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 539** 🎉
+**Total Problems Solved: 540** 🎉
 
 ## 📖 Problems by Topic
 
@@ -579,7 +579,7 @@
 43. [Find Duplicate Subtrees](./Tree/Find-Duplicate-Subtrees.js)
 44. [Validate Binary Tree Nodes](./Tree/Validate-Binary-Tree-Nodes.js)
 
-### 🔤 Trie (6)
+### 🔤 Trie (7)
 
 1. [Lexicographical Numbers](./Trie/Lexicographical-Numbers.js)
 2. [Remove Sub Folders from the Filesystem](./Trie/Remove-Sub-Folders-from-the-Filesystem.js)
@@ -587,6 +587,7 @@
 4. [Search Suggestions System](./Trie/Search-Suggestions-System.js)
 5. [Implement Trie (Prefix Tree)](./Trie/Implement-Trie-%28Prefix-Tree%29.ts)
 6. [Find the Length of the Longest Common Prefix](./Trie/Find-the-Length-of-the-Longest-Common-Prefix.js)
+7. [Sum of Prefix Scores of Strings](./Trie/Sum-of-Prefix-Scores-of-Strings.js)
 
 ### ⬅️➡️ Two Pointers (23)
 
