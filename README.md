@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 543** 🎉
+**Total Problems Solved: 544** 🎉
 
 ## 📖 Problems by Topic
 
@@ -193,7 +193,7 @@
 75. [Selling Pieces of Wood](./Dynamic-Programming/Selling-Pieces-of-Wood.js)
 76. [Minimum Total Distance Traveled](./Dynamic-Programming/Minimum-Total-Distance-Traveled.js)
 
-### 🧭 Graph (44)
+### 🧭 Graph (45)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -239,6 +239,7 @@
 42. [Similar String Groups](./Graph/Similar-String-Groups.js)
 43. [Number of Operations to Make Network Connected](./Graph/Number-of-Operations-to-Make-Network-Connected.js)
 44. [Minimum Height Trees](./Graph/Minimum-Height-Trees.js)
+45. [Most Profitable Path in a Tree](./Graph/Most-Profitable-Path-in-a-Tree.js)
 
 ### 🎯 Greedy (58)
 
