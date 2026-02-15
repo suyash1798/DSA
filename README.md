@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 548** 🎉
+**Total Problems Solved: 549** 🎉
 
 ## 📖 Problems by Topic
 
@@ -85,13 +85,14 @@
 
 1. [Reduce Array Size to The Half](./Bucket-Sort/Reduce-Array-Size-to-The-Half.js)
 
-### 📊 Counting (5)
+### 📊 Counting (6)
 
 1. [Minimum Operations to Write the Letter Y on a Grid](./Counting/Minimum-Operations-to-Write-the-Letter-Y-on-a-Grid.js)
 2. [Minimum String Length After Balanced Removals](./Counting/Minimum-String-Length-After-Balanced-Removals.js)
 3. [Sum of Beauty of All Substrings](./Counting/Sum-of-Beauty-of-All-Substrings.js)
 4. [Count Number of Homogenous Substrings](./Counting/Count-Number-of-Homogenous-Substrings.js)
 5. [Majority Element II](./Counting/Majority-Element-II.js)
+6. [H-Index](./Counting/H-Index.js)
 
 ### 🛠️ Design (18)
 
