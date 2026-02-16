@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 550** 🎉
+**Total Problems Solved: 551** 🎉
 
 ## 📖 Problems by Topic
 
@@ -244,7 +244,7 @@
 44. [Minimum Height Trees](./Graph/Minimum-Height-Trees.js)
 45. [Most Profitable Path in a Tree](./Graph/Most-Profitable-Path-in-a-Tree.js)
 
-### 🎯 Greedy (58)
+### 🎯 Greedy (59)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -304,6 +304,7 @@
 56. [Apply Operations to Make All Array Elements Equal to Zero](./Greedy/Apply-Operations-to-Make-All-Array-Elements-Equal-to-Zero.js)
 57. [Minimum Cost to Hire K Workers](./Greedy/Minimum-Cost-to-Hire-K-Workers.js)
 58. [Minimum Operations to Transform String](./Greedy/Minimum-Operations-to-Transform-String.js)
+59. [Transform Array to All Equal Elements](./Greedy/Transform-Array-to-All-Equal-Elements.js)
 
 ### 🗺️ HashMap (33)
 
