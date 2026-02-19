@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 557** 🎉
+**Total Problems Solved: 558** 🎉
 
 ## 📖 Problems by Topic
 
@@ -504,7 +504,7 @@
 32. [Longest Repeating Character Replacement](./Sliding-Window/Longest-Repeating-Character-Replacement.js)
 33. [Number of Subarrays with Bounded Maximum](./Sliding-Window/Number-of-Subarrays-with-Bounded-Maximum.js)
 
-### 📚 Stack (27)
+### 📚 Stack (28)
 
 1. [Build an Array With Stack Operations](./Stack/Build-an-Array-With-Stack-Operations.js)
 2. [Construct Smallest Number From DI String](./Stack/Construct-Smallest-Number-From-DI-String.js)
@@ -533,6 +533,7 @@
 25. [Number of Visible People in a Queue](./Stack/Number-of-Visible-People-in-a-Queue.js)
 26. [Minimum Number of Increments on Subarrays to Form a Target Array](./Stack/Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array.js)
 27. [Number of Atoms](./Stack/Number-of-Atoms.js)
+28. [Check If Word Is Valid After Substitutions](./Stack/Check-If-Word-Is-Valid-After-Substitutions.py)
 
 ### 🔤 String (9)
 
