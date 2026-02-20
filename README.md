@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 558** 🎉
+**Total Problems Solved: 559** 🎉
 
 ## 📖 Problems by Topic
 
@@ -547,7 +547,7 @@
 8. [Sender With Largest Word Count](./String/Sender-With-Largest-Word-Count.js)
 9. [Length of the Longest Alphabetical Continuous Substring](./String/Length-of-the-Longest-Alphabetical-Continuous-Substring.js)
 
-### 🌳 Tree (47)
+### 🌳 Tree (48)
 
 1. [Binary Search Tree to Greater Sum Tree](./Tree/Binary-Search-Tree-to-Greater-Sum-Tree.js)
 2. [Binary Tree Coloring Game](./Tree/Binary-Tree-Coloring-Game.js)
@@ -596,6 +596,7 @@
 45. [Check Completeness of a Binary Tree](./Tree/Check-Completeness-of-a-Binary-Tree.js)
 46. [Height of Binary Tree After Subtree Removal Queries](./Tree/Height-of-Binary-Tree-After-Subtree-Removal-Queries.js)
 47. [Amount of Time for Binary Tree to Be Infected](./Tree/Amount-of-Time-for-Binary-Tree-to-Be-Infected.py)
+48. [Count Pairs of Connectable Servers in a Weighted Tree Network](./Tree/Count-Pairs-of-Connectable-Servers-in-a-Weighted-Tree-Network.py)
 
 ### 🔤 Trie (7)
 
