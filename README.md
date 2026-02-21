@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 559** 🎉
+**Total Problems Solved: 560** 🎉
 
 ## 📖 Problems by Topic
 
@@ -309,7 +309,7 @@
 59. [Transform Array to All Equal Elements](./Greedy/Transform-Array-to-All-Equal-Elements.js)
 60. [Break a Palindrome](./Greedy/Break-a-Palindrome.js)
 
-### 🗺️ HashMap (34)
+### 🗺️ HashMap (35)
 
 1. [Convert an Array Into a 2D Array With Conditions](./HashMap/Convert-an-Array-Into-a-2D-Array-With-Conditions.js)
 2. [Count Number of Distinct Integers After Reverse Operations](./HashMap/Count-Number-of-Distinct-Integers-After-Reverse-Operations.js)
@@ -345,6 +345,7 @@
 32. [Check if Strings Can be Made Equal With Operations II](./HashMap/Check-if-Strings-Can-be-Made-Equal-With-Operations-II.js)
 33. [Minimum Number of Operations to Have Distinct Elements](./HashMap/Minimum-Number-of-Operations-to-Have-Distinct-Elements.js)
 34. [Bulls and Cows](./HashMap/Bulls-and-Cows.py)
+35. [Check If Array Pairs Are Divisible by k](./HashMap/Check-If-Array-Pairs-Are-Divisible-by-k.py)
 
 ### ⚙️ Heap (19)
 
