@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 561** 🎉
+**Total Problems Solved: 562** 🎉
 
 ## 📖 Problems by Topic
 
@@ -66,7 +66,7 @@
 16. [Find Right Interval](./Binary-Search/Find-Right-Interval.js)
 17. [Maximize Score of Numbers in Ranges](./Binary-Search/Maximize-Score-of-Numbers-in-Ranges.js)
 
-### 🔢 BitWise (13)
+### 🔢 BitWise (14)
 
 1. [Bitwise AND of Numbers Range](./BitWise/Bitwise-AND-of-Numbers-Range.js)
 2. [Count Number of Maximum Bitwise OR Subsets](./BitWise/Count-Number-of-Maximum-Bitwise-OR-Subsets.js)
@@ -81,6 +81,7 @@
 11. [Maximum Product of Word Lengths](./BitWise/Maximum-Product-of-Word-Lengths.js)
 12. [XOR Queries of a Subarray](./BitWise/XOR-Queries-of-a-Subarray.js)
 13. [Missing Number](./Bit-Manipulation/Missing-Number.js)
+14. [Check Digitorial Permutation](./Bit-Manipulation/Check-Digitorial-Permutation.py)
 
 ### 🗂️ Bucket Sort (1)
 
