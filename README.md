@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 563** 🎉
+**Total Problems Solved: 564** 🎉
 
 ## 📖 Problems by Topic
 
@@ -612,7 +612,7 @@
 6. [Find the Length of the Longest Common Prefix](./Trie/Find-the-Length-of-the-Longest-Common-Prefix.js)
 7. [Sum of Prefix Scores of Strings](./Trie/Sum-of-Prefix-Scores-of-Strings.js)
 
-### ⬅️➡️ Two Pointers (23)
+### ⬅️➡️ Two Pointers (24)
 
 1. [Append Characters to String to Make Subsequence](./Two-Pointers/Append-Characters-to-String-to-Make-Subsequence.js)
 2. [Find K Closest Elements](./Two-Pointers/Find-K-Closest-Elements.js)
@@ -637,5 +637,6 @@
 21. [Minimum Additions to Make Valid String](./Two-Pointers/Minimum-Additions-to-Make-Valid-String.js)
 22. [Minimum Length of String After Deleting Similar Ends](./Two-Pointers/Minimum-Length-of-String-After-Deleting-Similar-Ends.js)
 23. [Expressive Words](./Two-Pointers/Expressive-Words.js)
+24. [Swap Adjacent in LR String](./Two-Pointers/Swap-Adjacent-in-LR-String.py)
 
 ---
