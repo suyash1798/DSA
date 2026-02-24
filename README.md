@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 565** 🎉
+**Total Problems Solved: 566** 🎉
 
 ## 📖 Problems by Topic
 
@@ -350,7 +350,7 @@
 34. [Bulls and Cows](./HashMap/Bulls-and-Cows.py)
 35. [Check If Array Pairs Are Divisible by k](./HashMap/Check-If-Array-Pairs-Are-Divisible-by-k.py)
 
-### ⚙️ Heap (19)
+### ⚙️ Heap (20)
 
 1. [Divide Intervals Into Minimum Number of Groups](./Heap/Divide-Intervals-Into-Minimum-Number-of-Groups.js)
 2. [K Closest Points to Origin](./Heap/K-Closest-Points-to-Origin.js)
@@ -371,6 +371,7 @@
 17. [Kth Largest Element in an Array](./Heap/Kth-Largest-Element-in-an-Array.js)
 18. [Put Marbles in Bags](./Heap/Put-Marbles-in-Bags.js)
 19. [Maximum Product After K Increments](./Heap/Maximum-Product-After-K-Increments.js)
+20. [Minimum Operations to Halve Array Sum](./Heap/Minimum-Operations-to-Halve-Array-Sum.py)
 
 ### 💻 JavaScript (4)
 
