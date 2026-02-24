@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 564** 🎉
+**Total Problems Solved: 565** 🎉
 
 ## 📖 Problems by Topic
 
@@ -200,7 +200,7 @@
 79. [Length of Longest Fibonacci Subsequence](./Dynamic-Programming/Length-of-Longest-Fibonacci-Subsequence.py)
 80. [Check Digitorial Permutation](./Dynamic-Programming/Check-Digitorial-Permutation.py)
 
-### 🧭 Graph (45)
+### 🧭 Graph (46)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -247,6 +247,7 @@
 43. [Number of Operations to Make Network Connected](./Graph/Number-of-Operations-to-Make-Network-Connected.js)
 44. [Minimum Height Trees](./Graph/Minimum-Height-Trees.js)
 45. [Most Profitable Path in a Tree](./Graph/Most-Profitable-Path-in-a-Tree.js)
+46. [Count the Number of Houses at a Certain Distance I](./Graph/Count-the-Number-of-Houses-at-a-Certain-Distance-I.py)
 
 ### 🎯 Greedy (60)
 
