@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 574** 🎉
+**Total Problems Solved: 575** 🎉
 
 ## 📖 Problems by Topic
 
@@ -548,7 +548,7 @@
 27. [Number of Atoms](./Stack/Number-of-Atoms.js)
 28. [Check If Word Is Valid After Substitutions](./Stack/Check-If-Word-Is-Valid-After-Substitutions.py)
 
-### 🔤 String (10)
+### 🔤 String (11)
 
 1. [Execution of All Suffix Instructions Staying in a Grid](./String/Execution-of-All-Suffix-Instructions-Staying-in-a-Grid.js)
 2. [Find the Kth Largest Integer in the Array](./String/Find-the-Kth-Largest-Integer-in-the-Array.js)
@@ -560,6 +560,7 @@
 8. [Sender With Largest Word Count](./String/Sender-With-Largest-Word-Count.js)
 9. [Length of the Longest Alphabetical Continuous Substring](./String/Length-of-the-Longest-Alphabetical-Continuous-Substring.js)
 10. [Minimum Time to Revert Word to Initial State I](./String/Minimum-Time-to-Revert-Word-to-Initial-State-I.py)
+11. [Find the Kth Bit in Nth Binary String](./String/Find-Kth-Bit-in-Nth-Binary-String.py)
 
 ### 🌳 Tree (48)
 
