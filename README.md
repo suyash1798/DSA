@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 576** 🎉
+**Total Problems Solved: 577** 🎉
 
 ## 📖 Problems by Topic
 
@@ -117,7 +117,7 @@
 17. [Seat Reservation Manager](./Design/Seat-Reservation-Manager.js)
 18. [Maximum Frequency Stack](./Design/Maximum-Frequency-Stack.ts)
 
-### 💡 Dynamic Programming (83)
+### 💡 Dynamic Programming (84)
 
 1. [0 1 KnapSack](./Dynamic-Programming/0-1-KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
@@ -202,6 +202,7 @@
 81. [Minimize the Difference Between Target and Chosen Elements](./Dynamic-Programming/Minimize-the-Difference-Between-Target-and-Chosen-Elements.py)
 82. [Minimum Cost to Split into Ones](./Dynamic-Programming/Minimum-Cost-to-Split-into-Ones.py)
 83. [Count Vowels Permutation](./Dynamic-Programming/Count-Vowels-Permutation.py)
+84. [Maximum Alternating Subsequence Sum](./Dynamic-Programming/Maximum-Alternating-Subsequence-Sum.py)
 
 ### 🧭 Graph (46)
 
