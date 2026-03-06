@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 578** 🎉
+**Total Problems Solved: 579** 🎉
 
 ## 📖 Problems by Topic
 
@@ -565,7 +565,7 @@
 10. [Minimum Time to Revert Word to Initial State I](./String/Minimum-Time-to-Revert-Word-to-Initial-State-I.py)
 11. [Find the Kth Bit in Nth Binary String](./String/Find-Kth-Bit-in-Nth-Binary-String.py)
 
-### 🌳 Tree (48)
+### 🌳 Tree (49)
 
 1. [Binary Search Tree to Greater Sum Tree](./Tree/Binary-Search-Tree-to-Greater-Sum-Tree.js)
 2. [Binary Tree Coloring Game](./Tree/Binary-Tree-Coloring-Game.js)
@@ -615,6 +615,7 @@
 46. [Height of Binary Tree After Subtree Removal Queries](./Tree/Height-of-Binary-Tree-After-Subtree-Removal-Queries.js)
 47. [Amount of Time for Binary Tree to Be Infected](./Tree/Amount-of-Time-for-Binary-Tree-to-Be-Infected.py)
 48. [Count Pairs of Connectable Servers in a Weighted Tree Network](./Tree/Count-Pairs-of-Connectable-Servers-in-a-Weighted-Tree-Network.py)
+49. [Total Sum of Interaction Cost in Tree Groups](./Tree/Total-Sum-of-Interaction-Cost-in-Tree-Groups.py)
 
 ### 🔤 Trie (7)
 
