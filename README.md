@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 579** 🎉
+**Total Problems Solved: 580** 🎉
 
 ## 📖 Problems by Topic
 
@@ -482,7 +482,7 @@
 19. [Shift Distance Between Two Strings](./Prefix-Sum/Shift-Distance-Between-Two-Strings.js)
 20. [Maximize Distance to Closest Person](./Prefix-Sum/Maximize-Distance-to-Closest-Person.py)
 
-### 🪟 Sliding Window (34)
+### 🪟 Sliding Window (35)
 
 1. [Find the Power of K Size Subarrays I](./Sliding-Window/Find-the-Power-of-K-Size-Subarrays-I.js)
 2. [Longest Substring Without Repeating Characters](./Sliding-Window/Longest-Substring-Without-Repeating-Characters.js)
@@ -519,6 +519,7 @@
 32. [Longest Repeating Character Replacement](./Sliding-Window/Longest-Repeating-Character-Replacement.js)
 33. [Number of Subarrays with Bounded Maximum](./Sliding-Window/Number-of-Subarrays-with-Bounded-Maximum.js)
 34. [Minimum Operations to Reduce X to Zero](./Sliding-Window/Minimum-Operations-to-Reduce-X-to-Zero.py)
+35. [Minimum Number of Flips to Make the Binary String Alternating](./Sliding-Window/Minimum-Number-of-Flips-to-Make-the-Binary-String-Alternating.py)
 
 ### 📚 Stack (28)
 
