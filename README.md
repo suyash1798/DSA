@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 581** 🎉
+**Total Problems Solved: 582** 🎉
 
 ## 📖 Problems by Topic
 
@@ -19,7 +19,7 @@
 11. [Diagonal Traverse II](./Array/Diagonal-Traverse-II.js)
 12. [Split and Merge Array Transformation](./Array/Split-and-Merge-Array-Transformation.js)
 
-### 🔄 Backtracking (24)
+### 🔄 Backtracking (25)
 
 1. [Combination Sum III](./Backtracking/Combination-Sum-III.js)
 2. [Combinations](./Backtracking/Combinations.js)
@@ -45,6 +45,7 @@
 22. [N-Queens II](./Backtracking/N-Queens-II.js)
 23. [Sudoku Solver](./Backtracking/Sudoku-Solver.js)
 24. [Additive Number](./Backtracking/Additive-Number.js)
+25. [Find Unique Binary String](./Backtracking/Find-Unique-Binary-String.py)
 
 ### 🔍 Binary Search (17)
 
