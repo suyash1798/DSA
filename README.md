@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 587** 🎉
+**Total Problems Solved: 588** 🎉
 
 ## 📖 Problems by Topic
 
@@ -208,7 +208,7 @@
 85. [Smallest Sufficient Team](./Dynamic-Programming/Smallest-Sufficient-Team.py)
 86. [Find All Possible Stable Binary Arrays I](./Dynamic-Programming/Find-All-Possible-Stable-Binary-Arrays-I.py)
 
-### 🧭 Graph (46)
+### 🧭 Graph (47)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -256,6 +256,7 @@
 44. [Minimum Height Trees](./Graph/Minimum-Height-Trees.js)
 45. [Most Profitable Path in a Tree](./Graph/Most-Profitable-Path-in-a-Tree.js)
 46. [Count the Number of Houses at a Certain Distance I](./Graph/Count-the-Number-of-Houses-at-a-Certain-Distance-I.py)
+47. [Maximize Spanning Tree Stability with Upgrades](./Graph/Maximize-Spanning-Tree-Stability-with-Upgrades.py)
 
 ### 🎯 Greedy (64)
 
