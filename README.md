@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 588** 🎉
+**Total Problems Solved: 589** 🎉
 
 ## 📖 Problems by Topic
 
@@ -47,7 +47,7 @@
 24. [Additive Number](./Backtracking/Additive-Number.js)
 25. [Find Unique Binary String](./Backtracking/Find-Unique-Binary-String.py)
 
-### 🔍 Binary Search (17)
+### 🔍 Binary Search (18)
 
 1. [Minimum Absolute Sum Difference](./Binary-Search/Minimum-Absolute-Sum-Difference.js)
 2. [Successful Pairs of Spells and Potions](./Binary-Search/Successful-Pairs-of-Spells-and-Potions.js)
@@ -66,6 +66,7 @@
 15. [Minimum K to Reduce Array Within Limit](./Binary-Search/Minimum-K-to-Reduce-Array-Within-Limit.js)
 16. [Find Right Interval](./Binary-Search/Find-Right-Interval.js)
 17. [Maximize Score of Numbers in Ranges](./Binary-Search/Maximize-Score-of-Numbers-in-Ranges.js)
+18. [Minimum Number of Seconds to Make Mountain Height Zero](./Binary-Search/Minimum-Number-of-Seconds-to-Make-Mountain-Height-Zero.py)
 
 ### 🔢 BitWise (15)
 
