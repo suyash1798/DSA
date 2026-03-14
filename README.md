@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 591** 🎉
+**Total Problems Solved: 592** 🎉
 
 ## 📖 Problems by Topic
 
@@ -260,7 +260,7 @@
 46. [Count the Number of Houses at a Certain Distance I](./Graph/Count-the-Number-of-Houses-at-a-Certain-Distance-I.py)
 47. [Maximize Spanning Tree Stability with Upgrades](./Graph/Maximize-Spanning-Tree-Stability-with-Upgrades.py)
 
-### 🎯 Greedy (64)
+### 🎯 Greedy (65)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -326,6 +326,7 @@
 62. [Merge Close Characters](./Greedy/Merge-Close-Characters.py)
 63. [Minimum Swaps to Arrange a Binary Grid](./Greedy/Minimum-Swaps-to-Arrange-a-Binary-Grid.py)
 64. [Equal Sum Arrays With Minimum Number of Operations](./Greedy/Equal-Sum-Arrays-With-Minimum-Number-of-Operations.py)
+65. [Minimum Cost to Equalize Arrays Using Swaps](./Greedy/Minimum-Cost-to-Equalize-Arrays-Using-Swaps.py)
 
 ### 🗺️ HashMap (36)
 
