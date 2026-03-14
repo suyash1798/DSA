@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 590** 🎉
+**Total Problems Solved: 591** 🎉
 
 ## 📖 Problems by Topic
 
@@ -419,7 +419,7 @@
 18. [Find the Minimum and Maximum Number of Nodes Between Critical Points](./Linked-List/Find-the-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points.js)
 19. [Flatten a Multilevel Doubly Linked List](./Linked-List/Flatten-a-Multilevel-Doubly-Linked-List.js)
 
-### ➗ Math (21)
+### ➗ Math (22)
 
 1. [Alice and Bob Playing Flower Game](./Math/Alice-and-Bob-Playing-Flower-Game.js)
 2. [Broken Calculator](./Math/Broken-Calculator.js)
@@ -442,6 +442,7 @@
 19. [Happy Number](./Math/Happy-Number.js)
 20. [Check Digitorial Permutation](./Math/Check-Digitorial-Permutation.py)
 21. [Replace Non-Coprime Numbers in Array](./Math/Replace-Non-Coprime-Numbers-in-Array.py)
+22. [Sum of GCD of Formed Pairs](./Math/Sum-of-GCD-of-Formed-Pairs.py)
 
 ### 📐 Matrix (22)
 
