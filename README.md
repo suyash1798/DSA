@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 594** 🎉
+**Total Problems Solved: 595** 🎉
 
 ## 📖 Problems by Topic
 
@@ -328,7 +328,7 @@
 64. [Equal Sum Arrays With Minimum Number of Operations](./Greedy/Equal-Sum-Arrays-With-Minimum-Number-of-Operations.py)
 65. [Minimum Cost to Equalize Arrays Using Swaps](./Greedy/Minimum-Cost-to-Equalize-Arrays-Using-Swaps.py)
 
-### 🗺️ HashMap (37)
+### 🗺️ HashMap (38)
 
 1. [Convert an Array Into a 2D Array With Conditions](./HashMap/Convert-an-Array-Into-a-2D-Array-With-Conditions.js)
 2. [Count Number of Distinct Integers After Reverse Operations](./HashMap/Count-Number-of-Distinct-Integers-After-Reverse-Operations.js)
@@ -367,6 +367,7 @@
 34. [Bulls and Cows](./HashMap/Bulls-and-Cows.py)
 35. [Check If Array Pairs Are Divisible by k](./HashMap/Check-If-Array-Pairs-Are-Divisible-by-k.py)
 36. [Can Convert String in K Moves](./HashMap/Can-Convert-String-in-K-Moves.py)
+37. [Assign Elements to Groups with Constraints](./HashMap/Assign-Elements-to-Groups-with-Constraints.py)
 
 ### ⚙️ Heap (21)
 
