@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 597** 🎉
+**Total Problems Solved: 598** 🎉
 
 ## 📖 Problems by Topic
 
@@ -100,7 +100,7 @@
 5. [Majority Element II](./Counting/Majority-Element-II.js)
 6. [H-Index](./Counting/H-Index.js)
 
-### 🛠️ Design (18)
+### 🛠️ Design (19)
 
 1. [Cache With Time Limit](./Design/Cache-With-Time-Limit.js)
 2. [Design a Stack With Increment Operation](./Design/Design-a-Stack-With-Increment-Operation.js)
@@ -120,6 +120,7 @@
 16. [Min Stack](./Design/Min-Stack.js)
 17. [Seat Reservation Manager](./Design/Seat-Reservation-Manager.js)
 18. [Maximum Frequency Stack](./Design/Maximum-Frequency-Stack.ts)
+19. [Walking Robot Simulation II](./Design/Walking-Robot-Simulation-II.py)
 
 ### 💡 Dynamic Programming (88)
 
