@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 601** 🎉
+**Total Problems Solved: 602** 🎉
 
 ## 📖 Problems by Topic
 
@@ -122,7 +122,7 @@
 18. [Maximum Frequency Stack](./Design/Maximum-Frequency-Stack.ts)
 19. [Walking Robot Simulation II](./Design/Walking-Robot-Simulation-II.py)
 
-### 💡 Dynamic Programming (90)
+### 💡 Dynamic Programming (91)
 
 1. [0 1 KnapSack](./Dynamic-Programming/0-1-KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
@@ -214,6 +214,7 @@
 88. [Minimum Number of Valid Strings to Form Target I](./Dynamic-Programming/Minimum-Number-of-Valid-Strings-to-Form-Target-I.py)
 89. [Minimum Changes to Make K Semi-palindromes](./Dynamic-Programming/Minimum-Changes-to-Make-K-Semi-palindromes.py)
 90. [Maximum Points After Collecting Coins From All Nodes](./Dynamic-Programming/Maximum-Points-After-Collecting-Coins-From-All-Nodes.py)
+91. [Form Largest Integer With Digits That Add up to Target](./Dynamic-Programming/Form-Largest-Integer-With-Digits-That-Add-up-to-Target.py)
 
 ### 🧭 Graph (47)
 
