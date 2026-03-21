@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 605** 🎉
+**Total Problems Solved: 606** 🎉
 
 ## 📖 Problems by Topic
 
@@ -122,7 +122,7 @@
 18. [Maximum Frequency Stack](./Design/Maximum-Frequency-Stack.ts)
 19. [Walking Robot Simulation II](./Design/Walking-Robot-Simulation-II.py)
 
-### 💡 Dynamic Programming (94)
+### 💡 Dynamic Programming (95)
 
 1. [0 1 KnapSack](./Dynamic-Programming/0-1-KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
@@ -218,6 +218,7 @@
 92. [Minimum Cost to Split an Array](./Dynamic-Programming/Minimum-Cost-to-Split-an-Array.py)
 93. [Build Array Where You Can Find The Maximum Exactly K Comparisons](./Dynamic-Programming/Build-Array-Where-You-Can-Find-The-Maximum-Exactly-K-Comparisons.py)
 94. [Non-negative Integers without Consecutive Ones](./Dynamic-Programming/Non-negative-Integers-without-Consecutive-Ones.py)
+95. [Paths in Matrix Whose Sum Is Divisible by K](./Dynamic-Programming/Paths-in-Matrix-Whose-Sum-Is-Divisible-by-K.py)
 
 ### 🧭 Graph (47)
 
