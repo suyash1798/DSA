@@ -1,10 +1,10 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 607** 🎉
+**Total Problems Solved: 608** 🎉
 
 ## 📖 Problems by Topic
 
-### 🔢 Array (13)
+### 🔢 Array (14)
 
 1. [Adding Spaces to a String](./Array/Adding-Spaces-to-a-String.js)
 2. [Find Occurrences of an Element in an Array](./Array/Find-Occurrences-of-an-Element-in-an-Array.js)
@@ -19,6 +19,7 @@
 11. [Diagonal Traverse II](./Array/Diagonal-Traverse-II.js)
 12. [Split and Merge Array Transformation](./Array/Split-and-Merge-Array-Transformation.js)
 13. [Maximize Area of Square Hole in Grid](./Array/Maximize-Area-of-Square-Hole-in-Grid.py)
+14. [Construct Uniform Parity Array II](./Array/Construct-Uniform-Parity-Array-II.py)
 
 ### 🔄 Backtracking (25)
 
