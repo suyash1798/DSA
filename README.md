@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 611** 🎉
+**Total Problems Solved: 612** 🎉
 
 ## 📖 Problems by Topic
 
@@ -465,7 +465,7 @@
 24. [Integer to English Words](./Math/Integer-to-English-Words.py)
 23. [Count Commas in Range II](./Math/Count-Commas-in-Range-II.py)
 
-### 📐 Matrix (22)
+### 📐 Matrix (23)
 
 1. [Battleships in a Board](./Matrix/Battleships-in-a-Board.js)
 2. [Matrix Block Sum](./Matrix/Matrix-Block-Sum.js)
@@ -489,6 +489,7 @@
 20. [Surrounded Regions](./Matrix/Surrounded-Regions.js)
 21. [Valid Tic Tac Toe State](./Matrix/Valid-Tic-Tac-Toe-State.js)
 22. [Minimum Moves to Reach Target with Rotations](./Matrix/Minimum Moves to-Reach-Target-with-Rotations.js)
+23. [Shortest Path in a Grid with Obstacles Elimination](./Matrix/Shortest-Path-in-a-Grid-with-Obstacles-Elimination.py)
 
 ### ➕ Prefix Sum (21)
 
