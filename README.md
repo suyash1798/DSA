@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 613** 🎉
+**Total Problems Solved: 614** 🎉
 
 ## 📖 Problems by Topic
 
@@ -516,7 +516,7 @@
 20. [Maximize Distance to Closest Person](./Prefix-Sum/Maximize-Distance-to-Closest-Person.py)
 21. [K-Radius Subarray Averages](./Prefix-Sum/K-Radius-Subarray-Averages.py)
 
-### 🪟 Sliding Window (35)
+### 🪟 Sliding Window (36)
 
 1. [Find the Power of K Size Subarrays I](./Sliding-Window/Find-the-Power-of-K-Size-Subarrays-I.js)
 2. [Longest Substring Without Repeating Characters](./Sliding-Window/Longest-Substring-Without-Repeating-Characters.js)
@@ -542,6 +542,7 @@
 21. [Maximum Erasure Value](./Sliding-Window/Maximum-Erasure-Value.js)
 22. [Maximum Length of Subarray With Positive Product](./Sliding-Window/Maximum-Length-of-Subarray-With-Positive-Product.js)
 23. [Minimum Window Substring](./Sliding-Window/Minimum-Window-Substring.js)
+36. [Subarray Product Less Than K](./Sliding-Window/Subarray-Product-Less-Than-K.py)
 24. [Replace the Substring for Balanced String](./Sliding-Window/Replace-the-Substring-for-Balanced-String.js)
 25. [Find All Anagrams in a String](./Sliding-Window/Find-All-Anagrams-in-a-String.js)
 26. [Take K of Each Character From Left and Right](./Sliding-Window/Take-K-of-Each-Character-From-Left-and-Right.js)
