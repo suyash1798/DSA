@@ -70,7 +70,7 @@
 17. [Maximize Score of Numbers in Ranges](./Binary-Search/Maximize-Score-of-Numbers-in-Ranges.js)
 18. [Minimum Number of Seconds to Make Mountain Height Zero](./Binary-Search/Minimum-Number-of-Seconds-to-Make-Mountain-Height-Zero.py)
 
-### 🔢 BitWise (15)
+### 🔢 BitWise (16)
 
 1. [Bitwise AND of Numbers Range](./BitWise/Bitwise-AND-of-Numbers-Range.js)
 2. [Count Number of Maximum Bitwise OR Subsets](./BitWise/Count-Number-of-Maximum-Bitwise-OR-Subsets.js)
@@ -87,6 +87,7 @@
 13. [Missing Number](./Bit-Manipulation/Missing-Number.js)
 14. [Check Digitorial Permutation](./Bit-Manipulation/Check-Digitorial-Permutation.py)
 15. [Complement of Base 10 Integer](./Bit-Manipulation/Complement-of-Base-10-Integer.py)
+16. [Find XOR Sum of All Pairs Bitwise AND](./Bit-Manipulation/Find-XOR-Sum-of-All-Pairs-Bitwise-AND.py)
 
 ### 🗂️ Bucket Sort (1)
 
