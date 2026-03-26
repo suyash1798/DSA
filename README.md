@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 616** 🎉
+**Total Problems Solved: 617** 🎉
 
 ## 📖 Problems by Topic
 
@@ -227,7 +227,7 @@
 100. [Minimum Cost to Cut a Stick](./Dynamic-Programming/Minimum-Cost-to-Cut-a-Stick.py)
 101. [Longest Palindromic Subsequence After at Most K Operations](./Dynamic-Programming/Longest-Palindromic-Subsequence-After-at-Most-K-Operations.py)
 
-### 🧭 Graph (48)
+### 🧭 Graph (49)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -277,6 +277,7 @@
 46. [Count the Number of Houses at a Certain Distance I](./Graph/Count-the-Number-of-Houses-at-a-Certain-Distance-I.py)
 47. [Maximize Spanning Tree Stability with Upgrades](./Graph/Maximize-Spanning-Tree-Stability-with-Upgrades.py)
 48. [Graph Connectivity With Threshold](./Graph/Graph-Connectivity-With-Threshold.py)
+49. [Minimize Malware Spread II](./Graph/Minimize-Malware-Spread-II.py)
 
 ### 🎯 Greedy (65)
 
