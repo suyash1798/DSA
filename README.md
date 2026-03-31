@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 619** 🎉
+**Total Problems Solved: 621** 🎉
 
 ## 📖 Problems by Topic
 
@@ -443,7 +443,7 @@
 18. [Find the Minimum and Maximum Number of Nodes Between Critical Points](./Linked-List/Find-the-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points.js)
 19. [Flatten a Multilevel Doubly Linked List](./Linked-List/Flatten-a-Multilevel-Doubly-Linked-List.js)
 
-### ➗ Math (25)
+### ➗ Math (26)
 
 1. [Alice and Bob Playing Flower Game](./Math/Alice-and-Bob-Playing-Flower-Game.js)
 2. [Broken Calculator](./Math/Broken-Calculator.js)
@@ -472,6 +472,7 @@
 23. [Count Commas in Range II](./Math/Count-Commas-in-Range-II.py)
 24. [Integer to English Words](./Math/Integer-to-English-Words.py)
 25. [Count Collisions of Monkeys on a Polygon](./Math/Count-Collisions-of-Monkeys-on-a-Polygon.py)
+26. [Sum of Perfect Square Ancestors](./Math/Sum-of-Perfect-Square-Ancestors.py)
 
 ### 📐 Matrix (23)
 
@@ -608,7 +609,7 @@
 10. [Minimum Time to Revert Word to Initial State I](./String/Minimum-Time-to-Revert-Word-to-Initial-State-I.py)
 11. [Find the Kth Bit in Nth Binary String](./String/Find-Kth-Bit-in-Nth-Binary-String.py)
 
-### 🌳 Tree (49)
+### 🌳 Tree (50)
 
 1. [Binary Search Tree to Greater Sum Tree](./Tree/Binary-Search-Tree-to-Greater-Sum-Tree.js)
 2. [Binary Tree Coloring Game](./Tree/Binary-Tree-Coloring-Game.js)
@@ -659,6 +660,7 @@
 47. [Amount of Time for Binary Tree to Be Infected](./Tree/Amount-of-Time-for-Binary-Tree-to-Be-Infected.py)
 48. [Count Pairs of Connectable Servers in a Weighted Tree Network](./Tree/Count-Pairs-of-Connectable-Servers-in-a-Weighted-Tree-Network.py)
 49. [Total Sum of Interaction Cost in Tree Groups](./Tree/Total-Sum-of-Interaction-Cost-in-Tree-Groups.py)
+50. [Number of Integers With Popcount Depth Equal to K II](./Tree/Number-of-Integers-With-Popcount-Depth-Equal-to-K-II.py)
 
 ### 🔤 Trie (7)
 
