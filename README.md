@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 621** 🎉
+**Total Problems Solved: 622** 🎉
 
 ## 📖 Problems by Topic
 
@@ -124,7 +124,7 @@
 18. [Maximum Frequency Stack](./Design/Maximum-Frequency-Stack.ts)
 19. [Walking Robot Simulation II](./Design/Walking-Robot-Simulation-II.py)
 
-### 💡 Dynamic Programming (101)
+### 💡 Dynamic Programming (102)
 
 1. [0 1 KnapSack](./Dynamic-Programming/0-1-KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
@@ -227,6 +227,7 @@
 99. [Stone Game III](./Dynamic-Programming/Stone-Game-III.py)
 100. [Minimum Cost to Cut a Stick](./Dynamic-Programming/Minimum-Cost-to-Cut-a-Stick.py)
 101. [Longest Palindromic Subsequence After at Most K Operations](./Dynamic-Programming/Longest-Palindromic-Subsequence-After-at-Most-K-Operations.py)
+102. [Sorting Three Groups](./Dynamic-Programming/Sorting-Three-Groups.py)
 
 ### 🧭 Graph (50)
 
