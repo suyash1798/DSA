@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 623** 🎉
+**Total Problems Solved: 624** 🎉
 
 ## 📖 Problems by Topic
 
@@ -229,6 +229,10 @@
 101. [Longest Palindromic Subsequence After at Most K Operations](./Dynamic-Programming/Longest-Palindromic-Subsequence-After-at-Most-K-Operations.py)
 102. [Sorting Three Groups](./Dynamic-Programming/Sorting-Three-Groups.py)
 103. [Palindrome Partitioning III](./Dynamic-Programming/Palindrome-Partitioning-III.py)
+
+### ⚔️ Divide And Conquer (1)
+
+1. [Minimum Cost to Partition a Binary String](./DivideAndConquer/Minimum-Cost-to-Partition-a-Binary-String.py)
 
 ### 🧭 Graph (50)
 
