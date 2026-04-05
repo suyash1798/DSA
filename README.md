@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 626** 🎉
+**Total Problems Solved: 627** 🎉
 
 ## 📖 Problems by Topic
 
@@ -508,7 +508,7 @@
 22. [Minimum Moves to Reach Target with Rotations](./Matrix/Minimum Moves to-Reach-Target-with-Rotations.js)
 23. [Shortest Path in a Grid with Obstacles Elimination](./Matrix/Shortest-Path-in-a-Grid-with-Obstacles-Elimination.py)
 
-### ➕ Prefix Sum (21)
+### ➕ Prefix Sum (22)
 
 1. [Find All Good Indices](./Prefix-Sum/Find-All-Good-Indices.js)
 2. [Find Good Days to Rob the Bank](./Prefix-Sum/Find-Good-Days-to-Rob-the-Bank.js)
@@ -531,6 +531,7 @@
 19. [Shift Distance Between Two Strings](./Prefix-Sum/Shift-Distance-Between-Two-Strings.js)
 20. [Maximize Distance to Closest Person](./Prefix-Sum/Maximize-Distance-to-Closest-Person.py)
 21. [K-Radius Subarray Averages](./Prefix-Sum/K-Radius-Subarray-Averages.py)
+22. [Sum of Distances](./Prefix-Sum/Sum-of-Distances.py)
 
 ### 🪟 Sliding Window (36)
 
