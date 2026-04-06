@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 627** 🎉
+**Total Problems Solved: 628** 🎉
 
 ## 📖 Problems by Topic
 
@@ -397,7 +397,7 @@
 36. [Can Convert String in K Moves](./HashMap/Can-Convert-String-in-K-Moves.py)
 37. [Assign Elements to Groups with Constraints](./HashMap/Assign-Elements-to-Groups-with-Constraints.py)
 
-### ⚙️ Heap (22)
+### ⚙️ Heap (23)
 
 1. [Divide Intervals Into Minimum Number of Groups](./Heap/Divide-Intervals-Into-Minimum-Number-of-Groups.js)
 2. [K Closest Points to Origin](./Heap/K-Closest-Points-to-Origin.js)
@@ -421,6 +421,7 @@
 20. [Minimum Operations to Halve Array Sum](./Heap/Minimum-Operations-to-Halve-Array-Sum.py)
 21. [Maximum Spending After Buying Items](./Heap/Maximum-Spending-After-Buying-Items.py)
 22. [Process Tasks Using Servers](./Heap/Process-Tasks-Using-Servers.py)
+23. [Single Threaded CPU](./Heap/Single-Threaded-CPU.py)
 
 ### 💻 JavaScript (4)
 
